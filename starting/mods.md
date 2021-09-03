@@ -10,7 +10,7 @@
 
 ![add repo](swifty-images/swifty_1.png)
 
-4. Enter `https://repo.synixe.contractors` as the repo address
+4. Enter `https://cdn.synixe.contractors/repo/main` as the repo address
 
 ![enter address](swifty-images/swifty_2.png)
 

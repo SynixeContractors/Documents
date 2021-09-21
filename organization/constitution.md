@@ -24,7 +24,7 @@ There are four different stages of active membership.
 
 ### 3.2 - Gaining Membership
 
-Any person at the age of 16 or older wishing to join Synixe Contractors will be able to join as a recruit.
+Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit.
 
 Persons interested in joining Synixe Contractors will become a Junior Member after attending 2 sanctioned events. The person must then go through a minimum 3 month probation period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 

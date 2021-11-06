@@ -27,7 +27,7 @@
 ### Contact
 
 1. A potentially hostile enemy.
-    - Used to note a potential hostile in a particular bearing/range from the unit. This could be used for unknowns as well. 
+    - Used to note a potential hostile in a particular bearing/range from the unit. This could be used for unknowns as well.
 
 ### Threat/Tango
 
@@ -98,13 +98,12 @@
     - Used by either party in a radio conversation to identify the end of the transmitted message, but not the conversation.
 6. "Repeat"
     - Used leadership roles or JTACs to request a repeat fire of the previous type. Applies to all supporting assets.
-
 7. "Actual"
     - Used by appending to a callsign to denote it is the leading member of that unit using the radio.
 
 ### Radios
 
-1. PRC-148
+1. PRC-152
     - A portable short wave radio used by all contractors in Synixe Contractors.
 
 ## Other

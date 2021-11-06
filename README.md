@@ -1,3 +1,6 @@
-# Synixe Tactical
+# Synixe Contractors
 
-> An awesome project.
+## Current Staff
+
+President - Brett Harrison
+Treasurer - Arsey Johnson

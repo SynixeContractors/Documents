@@ -12,15 +12,15 @@ Our goal is to have a fun, friendly, and welcoming environment for all members. 
 
 ### Arma 3 is a Hobby
 
-Everyone will have different schedules, priorities, goals, and interests. Members will take the various aspects of gameplay with varying degrees of dedication and seriousness. 
+Everyone will have different schedules, priorities, goals, and interests. Members will take the various aspects of gameplay with varying degrees of dedication and seriousness.
 
 ### Time Commitment
 
-While we acknowledge that Arma 3 is a hobby, we still expect that you are making an active effort to be involed in our community. If you are looking for a place to play occasioanally when you are in the mood, we encourage you to find another server. We are looking for people who are willing to dedicate time to our community and to the game.
+While we acknowledge that Arma 3 is a hobby, we still expect that you are making an active effort to be involed in our community. If you are looking for a place to play occasionally when you are in the mood, we encourage you to find another server. We are looking for people who are willing to dedicate time to our community and to the game.
 
-We require active members to attend a minimum of one contract every three weeks. This is to ensure that we have a regular attendance and our mission makers and leadership can consistently plan.
+We require active members to attend a minimum of one contract every four weeks. This is to ensure that we have a regular attendance and our mission makers and leadership can consistently plan.
 
-If you will be unabe to attend for a longer period of time, please contact a member of our staff team. You are able to take a leave of absence for any length of time. Taking a leave of absence may affect your specialized roles, as your spot will be given to the next person on the waiting list. You will be put on the waiting list upon your return, assuming your certification is still valid.
+If you will be unable to attend for a longer period of time, please contact a member of our staff team. You are able to take a leave of absence for any length of time. Taking a leave of absence may affect your specialized roles, as your spot will be given to the next person on the waiting list. You will be put on the waiting list upon your return, assuming your certification is still valid.
 
 ### Social Conduct
 
@@ -31,9 +31,9 @@ We expect our members to follow these guidelines when interacting with others:
     * You do not harass, threaten, or abuse other members.
 
     * You do not post content that contains personal information of fellow members.
-    * You do not post content that is hateful, racist, or otherwise inappropriate.
-    * You do not post content that is illegal, threatening, or otherwise inappropriate.
-    * You do not post content that is sexually explicit or otherwise inappropriate.
+    * You do not post content that is hateful, racist, or similarly inappropriate.
+    * You do not post content that is illegal, threatening, or similarly inappropriate.
+    * You do not post content that is sexually explicit, or similarly inappropriate.
 
 ### Failure to Comply
 
@@ -86,7 +86,7 @@ The possession of weapons and other specialized equipment that you are not quali
 
 #### Insubordination
 
-Once an order has been given, you are expected to follow it. If you are not following the orders of a member above you, you will be subject to temporary or permanent suspension.
+Once an order has been given, you are expected to follow it to the best of your ability. If you are not following the orders of a member above you, you could be subject to temporary or permanent suspension.
 
 The time to discuss issues with the given orders is during our debriefing.
 

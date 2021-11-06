@@ -20,39 +20,35 @@ There are four different stages of active membership.
 - Recruit
 - Junior Member
 - Member
-- Senior Member
+- Staff
 
 ### 3.2 - Gaining Membership
 
-Any person at the age of 16 or older wishing to join Synixe Contractors will be able to join as a recruit.
+Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit.
 
-Persons interested in joining Synixe Contractors will become a Junior Member after attending 2 sanctioned events. The person must then go through a minimum 3 month probation period. After this period as a Junior Member, the Senior Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
+Persons interested in joining Synixe Contractors will become a Junior Member after attending a minimum of 2 sanctioned events. The person must then go through a minimum probation period of 16 sanctioned events. After this period as a Junior Member, the Staff Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 
-### 3.3 - Senior Members
+### 3.3 - Staff
 
-Members can become a senior member after a period of 6 months after becoming a member. They must be nominated for senior membership at a meeting. The vote will take place at the next community meeting.
+Members that contribute to the continued success of the community may be selected by existing Staff Members to assist with the managing of the community.
 
-### 3.4 - Staff
+### 3.4 - Temporary Leave
 
-Senior Members that contribute to the continued success of the community may be selected by existing Staff Members to assist with the managing of the community.
+A member may leave temporarily for any period of time at any point. The member will be marked as inactive, they will be considered active after returning for a sanctioned event.
 
-### 3.5 - Temporary Leave
+### 3.5 - Inactivity
 
-A member may leave temporarily for any period of time at any point. The member will be marked as inactive, they will be considered active after returning for two sanctioned events.
+A member may be assigned Inactive if they have not attended a sanctioned event for a period of more than 30 days. While inactive, the voting rights of the member are suspended.
 
-### 3.6 - Inactivity
-
-A member may be assigned Inactive if they have not attended a sanctioned event for a period of more than 60 days.
-
-### 3.7 Removal
+### 3.6 Removal
 
 All members are permitted a single warning for breaking a rule. A member may be removed by a Staff Member on the second occurrence of rule breaking.
 
-### 3.8 - Gross Misconduct
+### 3.7 - Gross Misconduct
 
 A member may be removed without warning by a Staff member if they have grossly breached a rule or engaged in repeated disruptive actions.
 
-### 3.9 - Former Members
+### 3.8 - Former Members
 
 After a person is no longer a member of the organization they are to be removed from any social platforms they were using to formally engage with the organization.
 Members of the organization are free to continue communication with a former member without action being taken against them unless such communication is relayed to a public social platform shared with the community after a direct request to cease such actions.
@@ -64,19 +60,19 @@ An assembly of members of the community that can result in a change to the organ
 
 ### 4.1 - Quarterly Meetings
 
-A meeting shall be held during the first month of every quarter unless a meeting was held in the last month. If a meeting has been held in the previous 30 days, a meeting must be held in the first 6 weeks.
+A meeting shall be held during the third Saturday of every quarter, it may be reschedule by a Staff Member to the fith or seventh Saturday.
 
 ### 4.2 - Calling a Meeting
 
-Any Senior Member of the community can call additional meetings. Meetings must be announced to the the community 72 hours prior to the start time.
+Any Staff Member of the community can call additional meetings. Meetings must be announced to the the community a minimum of 72 hours prior to the start time.
 
 ### 4.3 - Chair
 
-A Senior Member will act as the chair of a meeting.
+A Staff Member will act as the chair of a meeting.
 
 ### 4.4 - Quorum
 
-In order for a meeting to take place two thirds of the Senior Members are required to be present.
+In order for a meeting to take place two thirds of the Members are required to be present.
 
 ### 4.4 - Structure
 
@@ -84,19 +80,18 @@ In order for a meeting to take place two thirds of the Senior Members are requir
 2. A count of all members of the organization shall be taken.
 3. A financial report will be presented by a Staff Member.
 4. Tabled proposals, unresolved discussions, or nominations from the previous meeting will be presented.
-5. Members can announce a proposal or constitutional amendment.
-6. Nominations can be announced.
+5. Members will present their proposals.
 
 Once a proposal or constitutional amendment is announced
 
-1. The text of the proposal is to be drafted or presented.
+1. The text of the proposal is to presented.
 2. A break of a duration of no less than 2 minutes is to be taken. Members can request a maximum of 2 additional 2 minute periods up to a maximum break duration of 20 minutes.
 3. The organization will discuss the proposal. Any member can request a single uninterrupted period of 2 minutes to talk.
-4. All non-Junior Members of the community will vote on the proposal.
+4. Members of the community will vote on the proposal.
 
 ### 4.5 - Proposals
 
-A majority vote of all present non-Junior members is required to pass any proposal. The proposal takes effect after receiving approval from all Staff Members, or after a period of 14 days.
+A majority vote of all present Members is required to pass any proposal. The proposal takes effect after receiving approval from all Staff Members, or after a period of 14 days.
 
 - Any member absent will not be counted in the vote.
 - Any member can abstain from voting and will not be counted.

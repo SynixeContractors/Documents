@@ -6,6 +6,26 @@ This document will outline the expectations of our members both during gameplay 
 
 Your actions outside of this community reflect back on the values of our community, and we expect that you will follow these guidelines.
 
+## Names
+
+1. Names can not be offensive in any way.
+
+2. Names should be clear and easy to read.
+
+3. Names must be in the First Last format.
+
+4. Names must be unique within Synixe Contractors.
+
+5. Names must not include ranks.
+
+6. Names must be consistent across all platforms. This helps people learn who is who.
+
+7. Names must not include phrases or words that could be misinterpreted during gameplay.
+
+8. Names should not be changed once a member holds a position of Junior Member or higher.
+
+9. Names must not be that of a household name.
+
 ## General Conduct
 
 Our goal is to have a fun, friendly, and welcoming environment for all members. We want to create good experiences for everyone, and we want to make sure that everyone is treated with respect and dignity. Teamwork is the key to success, and we want to make sure that everyone is working together to achieve our goals.

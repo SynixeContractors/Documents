@@ -42,7 +42,7 @@ A member may be assigned Inactive if they have not attended a sanctioned event f
 
 ### 3.6 Removal
 
-All members are permitted a single warning for breaking a rule. A member may be removed by a Staff Member on the second occurrence of rule breaking.
+A member may be removed by a Staff Member on the first occurrence of rule breaking at their discretion. Members may also be removed after a long period of inactivity.
 
 ### 3.7 - Gross Misconduct
 

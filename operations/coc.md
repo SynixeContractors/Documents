@@ -34,6 +34,8 @@ Our goal is to have a fun, friendly, and welcoming environment for all members. 
 
 Everyone will have different schedules, priorities, goals, and interests. Members will take the various aspects of gameplay with varying degrees of dedication and seriousness.
 
+Our members are allowed to be in other Arma 3 communities that do not have a time conflict, but we ask that if you hold a position of authority here, you do not hold a position of authority in other communities.
+
 ### Time Commitment
 
 While we acknowledge that Arma 3 is a hobby, we still expect that you are making an active effort to be involed in our community. If you are looking for a place to play occasionally when you are in the mood, we encourage you to find another server. We are looking for people who are willing to dedicate time to our community and to the game.
@@ -58,6 +60,16 @@ We expect our members to follow these guidelines when interacting with others:
 ### Failure to Comply
 
 We will hold our members to a high standard, failure to comply with these guidelines will result in a warning or a ban at the discretion of the staff members. You are not entitled to a warning on your first offense.
+
+## Cheating and Exploiting
+
+Any deliberate action or attempt to enhance your gameplay or to give yourself an unfair advantage will not be tolerated and you will be subject to disciplinary action. Including but not limited to:
+
+- Modification of game files or additional modifications outside of what is required by Synixe Contractors
+- Attempting to gain access to other members' accounts
+- Attempting to gain access to administrative tools
+- Use of external communication platforms (Steam, Discord) unless authorized by a staff member for roleplay purposes
+- Using any duplication or purchase bugs in our in-game shop, these should be privately reported to a staff member
 
 ## In Game Conduct
 

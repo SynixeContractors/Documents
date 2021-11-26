@@ -10,7 +10,7 @@ When you first load into our Contract Server you'll need to get your equipment f
 
 ![Arsenal1](images/ars1.PNG)
 
-This button is used to show you your current cash balance. You start with 3500 and will earn more for successfully completing operations. As you go through and select gear, you'll notice the balance changes to not gray and now shows xxx/3y00. This is representative of the amount of money you are going to spend to buy gear.
+This button is used to show you your current cash balance. You start with 3500 and will earn more for successfully completing operations. As you go through and select gear, you'll notice the balance changes to not gray and now shows xxx/3500. This is representative of the amount of money you are going to spend to buy gear.
 
 ![Arsenal2](images/ars2.jpg)
 
@@ -22,7 +22,7 @@ Afterwards you will want to click apply in the bottom right to ensure the gear y
 
 ## Radio
 
-When you get out of the arsenal, the first thing you'll want to do is setup your radio. Do do that use `ACE Self Interact > Radios > AN/PRC-152 > Open`  to pull up the radio. Then hover your mouse over the dial at the top and left and right click to switch channels. You will put your radio onto whatever channel your element is supposed to be using for that operation as defined in your briefing.
+When you get out of the arsenal, the first thing you'll want to do is setup your radio. Do that using `ACE Self Interact > Radios > AN/PRC-152 > Open`  to pull up the radio. Then hover your mouse over the dial at the top and left and right click to switch channels. You will put your radio onto whatever channel your element is supposed to be using for that operation as defined in your briefing.
 
 ![Radio](images/radio.jpg)
 

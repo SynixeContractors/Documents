@@ -40,7 +40,7 @@ A member may leave temporarily for any period of time at any point. The member w
 
 A member may be assigned Inactive if they have not attended a sanctioned event for a period of more than 30 days. While inactive, the voting rights of the member are suspended.
 
-### 3.6 Removal
+### 3.6 - Removal
 
 A member may be removed by a Staff Member on the first occurrence of rule breaking at their discretion. Members may also be removed after a long period of inactivity.
 

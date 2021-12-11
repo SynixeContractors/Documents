@@ -1,9 +1,5 @@
 # Marksman I Certification
 
-## Instructors
-
-- Brett
-
 ## Requirements
 
 - Member

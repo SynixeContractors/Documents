@@ -63,18 +63,21 @@ Autonomous operations will make up the majority of the time spent controlling re
 #### Move Order
 
 ##### Position
+
 `Shift + Left Click`  
 The UAV will proceed to the marked location
 
 ![UAV Move](images/uav_move.gif)
 
 ##### Path
+
 `Shift + Left Click`, then `Control + Shift + Left Click`  
 The UAV will follow the indicated path.
 
 ![UAV Path](images/uav_path.gif)
 
 ##### Patrol
+
 `Shift + Left Click`, then `Control + Shift + Left Click`  
 The last waypoint needs to be of type `Cycle`  
 The UAV will fly along the indicated path indefinitely.
@@ -82,11 +85,11 @@ The UAV will fly along the indicated path indefinitely.
 ![UAV Patrol](images/uav_cycle.gif)
 
 ##### Altitude
+
 `Right Click -> Altitude`  
 The UAV will fly to the assigned altitude
 
 ![UAV Altitude](images/uav_altitude.gif)
-
 
 #### Waypoint Types
 

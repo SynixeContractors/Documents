@@ -12,4 +12,4 @@
 
 ## Practical Exam
 
-- The trainee is able to estimate the range of targets between 300 - 700m
+- The trainee is able to estimate the range of targets between 300 - 700m to ±25m.

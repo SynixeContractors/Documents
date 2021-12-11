@@ -29,10 +29,10 @@ When you begin to prepare the weapon you must make a callout of "Clear Back - [D
 
 Examples
 
-> *LAT*: Clear back - East
-> *Rifleman*: Clear Clear Clear
+> *LAT*: Clear back - East  
+> *Rifleman*: Clear Clear Clear  
 > *LAT*: Rocket out
 
-> *LAT*: Clear back - North West
-> *Rifleman*: Clear Clear Clear
+> *LAT*: Clear back - North West  
+> *Rifleman*: Clear Clear Clear  
 > *LAT*: Cancel Cancel Cancel, vehicle moved away

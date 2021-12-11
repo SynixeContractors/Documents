@@ -1,10 +1,5 @@
 # Combat Aid Certification
 
-## Instructors
-
-- Brett Harrison
-- Andrew Forrest
-
 ## Requirements
 
 - Junior Member
@@ -13,6 +8,7 @@
 
 
 ## Theoretical Exam
+
 1. During combat the primary responsibility of a rifleman is?
 
 2. What is the most important part of treating an unconscious teammate?

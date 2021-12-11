@@ -1,12 +1,5 @@
 # Grenade Certification
 
-## Instructors
-
-- Brett Harrison
-- Zeke Martin
-- Arsey Johnson
-- Andrew Forrest
-
 ## Requirements
 
 - Junior Member
@@ -29,6 +22,8 @@
 
 ## Practical Exam
 
-1. The trainee is able to throw a fragmentation grenade using ACE Throwing.
+1. The trainee is able to throw a fragmentation grenade through a window using ACE Throwing.
 
-2. The trainee is able to throw a smoke grenade to cover a medic using ACE Throwing.
+2. The trainee is able to throw a smoke grenade to cover an opening using ACE Throwing.
+
+3. The trainee is able to throw a stun grenade in a narrow opening using ACE Throwing.

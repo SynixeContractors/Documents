@@ -1,10 +1,5 @@
 # Grenade Certification
 
-## Instructors
-
-- Brett Harrison
-- Noah Curio
-
 ## Requirements
 
 - Junior Member
@@ -19,10 +14,8 @@
 
 3. Why would you use a static .50?
 
-4. Why would you use static AA?
-
 ## Practical Exam
 
-1. The trainee is able to set-up and use both types of CSWs. (AA and .50)
+1. The trainee is able to set-up and use a CSWs.
 
-2. The trainee is able to disassemble and store both types of CSWs. (AA and .50)
+2. The trainee is able to disassemble and store a CSWs.

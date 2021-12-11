@@ -1,7 +1,7 @@
 * Organization
 
   * [Constitution](organization/constitution.md)
-  * [Rules](organization/rules.md)
+  * [Code of Conduct](operations/coc.md)
 
 * Getting Started
   * [Mods](starting/mods.md)

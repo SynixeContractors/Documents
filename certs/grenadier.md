@@ -1,9 +1,5 @@
 # Grenadier Certification
 
-## Instructors
-
-- Brett
-
 ## Requirements
 
 - Junior Member

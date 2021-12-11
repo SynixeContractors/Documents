@@ -1,9 +1,5 @@
 # Autorifleman Certification
 
-## Instructors
-
-- Brett
-
 ## Requirements
 
 - Junior Member
@@ -17,3 +13,7 @@
 1. The trainee is able to suppress a fireteam sized element.
 
 2. The trainee is able to suppress a squad sized element.
+
+3. The trainee understands how to link belts.
+
+4. The trainee understands how to reduce the likelihood of a jam.

@@ -24,12 +24,14 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
 ### Assembly
 
 When assembling the CSWs, it is pretty straightforward.
+
 1. Tripod is placed
 2. Gun or Missile is attached
 3. Ammo is loaded, and gunner hops on
 4. Ready to fire
 
 Disassembly is just as easy, just assembly, but backwards.
+
 1. Unload ammo
 2. Detach Gun or Missile
 3. Pickup tripod

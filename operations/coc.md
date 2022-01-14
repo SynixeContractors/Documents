@@ -26,14 +26,14 @@ If you will be unabe to attend for a longer period of time, please contact a mem
 
 We expect our members to follow these guidelines when interacting with others:
 
-    * You are approachable and friendly.
-    * You respect the privacy of other members.
-    * You do not harass, threaten, or abuse other members.
+* You are approachable and friendly.
+* You respect the privacy of other members.
+* You do not harass, threaten, or abuse other members.
 
-    * You do not post content that contains personal information of fellow members.
-    * You do not post content that is hateful, racist, or otherwise inappropriate.
-    * You do not post content that is illegal, threatening, or otherwise inappropriate.
-    * You do not post content that is sexually explicit or otherwise inappropriate.
+* You do not post content that contains personal information of fellow members.
+* You do not post content that is hateful, racist, or otherwise inappropriate.
+* You do not post content that is illegal, threatening, or otherwise inappropriate.
+* You do not post content that is sexually explicit or otherwise inappropriate.
 
 ### Failure to Comply
 
@@ -77,8 +77,8 @@ Permanent bans can be imposed for gross misconduct during our contracts.
 
 The looting of items off of enemy units is a fineable offense. There are only two exceptions:
 
-    * Medical gear when low and in urgent need.
-    * Weapons when out of ammunition, in urgent need, and approved by an element level leader.
+* Medical gear when low and in urgent need.
+* Weapons when out of ammunition, in urgent need, and approved by your element leader.
 
 #### Possesion of Unauthorized Specialized Equipment
 

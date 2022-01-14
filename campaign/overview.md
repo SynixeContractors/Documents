@@ -40,7 +40,7 @@ They have emerged as a response to the anti-government extremists, and have been
 
 ### Government Police
 
-The island has a single unified police organization. It has stations in the towns of Luzern, 
+The island has a single unified police organization. It has stations in the towns of Luzern, Lenzburg, Muttenz.
 
 ## Our Contract
 

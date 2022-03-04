@@ -19,6 +19,6 @@
   * [Helicopter Signalling](certs/helicopter_signal.md)
   * [Scopes](certs/scopes.md)
   * [Grenadier](certs/grenadier.md)
-  * [Autorifleman](certs/autorifleman.md)
-  * [Marksman](certs/marksman)
   * [UAV Operator](certs/uav.md)
+
+* [Specialists](specialists/index.md)

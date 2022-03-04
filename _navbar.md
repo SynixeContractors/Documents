@@ -11,23 +11,14 @@
   * [Terminology](operations/terminology.md)
   * [SOP](operations/sop.md)
 
-* Guides
-  * [Autorifleman](guides/autorifleman.md)
-  * [Grenades](guides/grenades.md)
-  * [Grenadier](guides/grenadier.md)
-  * [Helicopter Signalling](guides/helicopter_signal.md)
-  * [LAT](guides/lat.md)
-  * [CSW](guides/csw.md)
-  * [Scopes](guides/scopes.md)
-  * [UAV Operator](guides/uav.md)
-  * [Combat Aid](guides/combataid.md)
-
 * Certifications
+  * [Combat Aid](certs/combataid.md)
   * [Grenades](certs/grenades.md)
+  * [LAT](certs/lat.md)
+  * [CSW](certs/csw.md)
+  * [Helicopter Signalling](certs/helicopter_signal.md)
   * [Scopes](certs/scopes.md)
   * [Grenadier](certs/grenadier.md)
   * [Autorifleman](certs/autorifleman.md)
   * [Marksman](certs/marksman)
-  * [LAT](certs/lat.md)
-  * [CSW](certs/csw.md)
-  * [Combat Aid](certs/combataid.md)
+  * [UAV Operator](certs/uav.md)

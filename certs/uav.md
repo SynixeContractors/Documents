@@ -1,4 +1,4 @@
-# UAV Operator Guide
+# UAV Operator
 
 ## Role Description
 
@@ -171,3 +171,25 @@ When the crosshair is on top of the target, press `Control + T` to begin trackin
 ##### Position Tracking
 
 `Control + T` can also be used to fix the camera to a position. If the device moves the camera will remain looking at the same position.
+
+## Certification
+
+### Requirements
+
+- Member
+
+### Theoretical Exam
+
+1. What is the primary responsibility of a UAV Operator?
+
+2. What is the primary purpose of a UAV?
+
+3. When is a UAV appropriate for a mission? 
+
+### Practical Exam
+
+1. The UAV Operator is able to identify all targets at an enemy position without being detected.
+
+2. The UAV Operator is able to locate and lock onto a moving target.
+
+3. The UAV Operator is able to provide updates of the tracked target while on the move.

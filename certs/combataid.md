@@ -9,10 +9,10 @@ Combat Aid covers basic medical, such as wound treatment, and stabilizing; as we
 ### Specialized Equipment
 
 All rifleman are to carry a set of basic medical equipment, consisting of:
-* 5x Bandage (Elastic)
-    Elastic Bandages are the fastest bandages to apply but have a high chance of the wound reopening
+* 5x Bandage (Packing)
+    Packing Bandages will repopen, but will take a long time to do so. They are good when a medic is not currently available.
 *  5x Bandage (Quik Clot)
-    Quick Clot Bandages have the lowest chance of the wound reopening but take longer to apply than Elastic Bandages
+    Quick Clot Bandages are great for small wounds. They last a long time before repopping, but are less effective on large wounds.
 *  2x Tourniquet
     Tourniquets are used to stop a limb from bleeding, they can be removed after the patient has been stitched by a Medic
 *  1x Splint

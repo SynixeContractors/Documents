@@ -72,7 +72,7 @@ A Staff Member will act as the chair of a meeting.
 
 ### 4.4 - Quorum
 
-In order for a meeting to take place two thirds of the Members are required to be present.
+In order for a meeting to take place two thirds of the active Members are required to be present.
 
 ### 4.4 - Structure
 

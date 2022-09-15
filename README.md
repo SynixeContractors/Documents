@@ -8,5 +8,6 @@ Felix de Jong
 
 ## VPs
 
-VP of the Tresury: Arsey Johnson
-VP of Operations: Matías Jackson
+VP of the Tresury: Arsey Johnson  
+VP of Operations: Matías Jackson  
+VP of Medical: Jonathan Miller  

@@ -9,11 +9,12 @@
 
 ## Engineer
 
-1. [Vehicle Logistics](specialists/engineer/vehicles.md)
-2. [Explosives Handling](specialists/engineer/explosives.md)
-3. [EOD](specialists/engineer/eod.md)
-<!-- 4. [Construction](specialists/engineer/construction.md) -->
-4. Construction (Coming Soon)
+1. [General Tools](specialists/engineer/engineer.md)
+2. [Vehicle Logistics](specialists/engineer/vehicles.md)
+3. [Explosives Handling](specialists/engineer/explosives.md)
+4. [EOD](specialists/engineer/eod.md)
+<!-- 5. [Construction](specialists/engineer/construction.md) -->
+5. Construction (Coming Soon)
 
 ## Marksman
 

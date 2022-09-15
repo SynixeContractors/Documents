@@ -20,7 +20,7 @@ A toolkit can be reused to patch tires that are slightly to moderately damaged. 
 
 Every vehicle should have at least 1 spare tire. These can be taken out of the cargo and mounted onto a wheel. Damaged tires should be placed back in the cargo if they are not completely destroyed, a damaged tire is better than no tire at all.
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/tire.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 
@@ -35,7 +35,7 @@ Various components of the vehicle can become damaged. These depend on the vehicl
 
 The fuel tank should always be checked for repairs first, as it may be leaking.
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/repair.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 
@@ -64,7 +64,7 @@ To refuel from a gas station, bladder, or truck:
 3. Wait for the vehicle to finish refueling
 4. Remove the fuel hose from the vehicle and return it to the source
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/refuel.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 
@@ -81,7 +81,7 @@ Most vehicles have some cargo space that can be used for loading and transportin
 
 ### Loading
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/loading.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 
@@ -96,7 +96,7 @@ Your browser does not support the video tag.
 
 ### Unloading
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/unloading.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 
@@ -123,7 +123,7 @@ Some vehcles have Vehicle-in-Vehicle (ViV) support.
 
 ### Loading
 
-<video width="580px" height="auto" autoplay loop>
+<video width="75%" height="auto" autoplay loop>
   <source src="/specialists/engineer/images/viv-loading.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 

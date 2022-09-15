@@ -20,7 +20,10 @@ A toolkit can be reused to patch tires that are slightly to moderately damaged. 
 
 Every vehicle should have at least 1 spare tire. These can be taken out of the cargo and mounted onto a wheel. Damaged tires should be placed back in the cargo if they are not completely destroyed, a damaged tire is better than no tire at all.
 
-![tire](images/tire.webm)
+<video autoplay>
+  <source src="images/tire.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 ### Component Damage
 
@@ -32,7 +35,10 @@ Various components of the vehicle can become damaged. These depend on the vehicl
 
 The fuel tank should always be checked for repairs first, as it may be leaking.
 
-![repair](images/repair.webm)
+<video autoplay>
+  <source src="images/repair.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 ### Repair Vehicles
 
@@ -58,7 +64,10 @@ To refuel from a gas station, bladder, or truck:
 3. Wait for the vehicle to finish refueling
 4. Remove the fuel hose from the vehicle and return it to the source
 
-![refuel](images/refuel.webm)
+<video autoplay>
+  <source src="images/refuel.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 ## Vehicle Towing
 
@@ -72,7 +81,10 @@ Most vehicles have some cargo space that can be used for loading and transportin
 
 ### Loading
 
-![loading](images/loading.webm)
+<video autoplay>
+  <source src="images/loading.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 1. Carry / Drag the supplies to the vehicle, or drive the vehicle to the supplies when it is too heavy to carry.
 
@@ -84,7 +96,10 @@ Most vehicles have some cargo space that can be used for loading and transportin
 
 ### Unloading
 
-![unloading](images/unloading.webm)
+<video autoplay>
+  <source src="images/unloading.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 1. Park the vehicle near the desired unloading location. Make sure there is sufficient space for the cargo to be unloaded.
 
@@ -108,7 +123,10 @@ Some vehcles have Vehicle-in-Vehicle (ViV) support.
 
 ### Loading
 
-![viv-loading](images/viv-loading.webm)
+<video autoplay>
+  <source src="images/viv-loading.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
 
 1. Drive the vehicle you want to load up to the rear of the ViV vehicle. If the vehicle is unable to move, carefully navigate the ViV vehicle to the front of the target vehicle.
 

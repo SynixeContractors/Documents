@@ -23,6 +23,11 @@ Your browser does not support the video tag.
 
 Engineers can cut through wire fences to allow their element to pass through. A wire cutter or backpack with wire cutters can be used to cut through wire fences.
 
+<video width="75%" height="auto" autoplay loop>
+  <source src="/specialists/engineer/images/wire-cutting.webm" type="video/webm">
+Your browser does not support the video tag.
+</video> 
+
 ### Tree and Bush Cutting
 
 Engineers can cut down trees and bushes to allow their element to pass through. An axe or backpack with an axe can be used to cut down trees and bushes.

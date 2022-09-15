@@ -11,15 +11,15 @@ Combat Aid covers basic medical, such as wound treatment, and stabilizing; as we
 All rifleman are to carry a set of basic medical equipment, consisting of:
 * 5x Bandage (Packing)
     Packing Bandages will repopen, but will take a long time to do so. They are good when a medic is not currently available.
-*  5x Bandage (Quik Clot)
+* 5x Bandage (Quik Clot)
     Quick Clot Bandages are great for small wounds. They last a long time before repopping, but are less effective on large wounds.
-*  2x Tourniquet
+* 2x Tourniquet
     Tourniquets are used to stop a limb from bleeding, they can be removed after the patient has been stitched by a Medic
-*  1x Splint
+* 1x Splint
     Splits are used to fix fractures; a fracture of the legs causes the patient to limp, whereas a fracture of the arm causes the patient to sway heavily while aiming
-*  1x Guedel tube
+* 1x Guedel tube
     Guedel tubes are used to manage airways and allow the patient to breathe
-*  2x Painkillers
+* 2x Painkillers
     Painkillers are used to manage pain, they cannot be taken within 5 minutes of each other and take 1-2 minutes to take effect
 
 ### UI

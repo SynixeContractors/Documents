@@ -2,6 +2,11 @@
 
 ## Current Staff
 
-President - Brett Harrison  
-Treasurer - Arsey Johnson  
-Operations - Felix de Jong
+Brett Harrison  
+Arsey Johnson  
+Felix de Jong
+
+## VPs
+
+VP of the Tresury: Arsey Johnson
+VP of Operations: Matías Jackson

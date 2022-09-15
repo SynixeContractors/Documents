@@ -14,7 +14,7 @@ Engineers can build a variety of trenches to support their element's infantry an
 
 Trenches can be built on any terrain that is diggable and suffiently large and flat to support the desired trench size.
 
-<video autoplay>
+<video autoplay loop>
   <source src="/specialists/engineer/images/trench.webm" type="video/webm">
 Your browser does not support the video tag.
 </video> 

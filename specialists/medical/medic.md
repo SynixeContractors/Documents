@@ -75,18 +75,3 @@ Saline is used to raise the Blood Pressure of a patient as well as stabilize a p
 **Epinephrine**: Used to rapidly increase the heart rate of the patient. The effects last around 2 minutes. 10 doses of Epinephrine within a 2 minute window will overdose the patient.
 
 **Adenosine**: Used to rapidly decrease the heart rate of the patient. The effects last around 2 minutes. 6 doses of adenosine within a 2 minute window will overdose the patient. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Last Updated 10/09/2022 12:22 AM 
-Edit made by Jonathan Miller VP of Medical Operations Synixe Contractors

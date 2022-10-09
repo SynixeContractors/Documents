@@ -64,7 +64,7 @@ Each person requiring medical aid should have only a single medic responsible fo
 
 ### Saline
 
-Saline is used to raise the Blood Pressure of a patient as well as stabilize a patient. It comes in these amounts; 250 Milliliters, 500 Milliliters, and 1000 Milliliters. For reference, an uninjured person has around 6 liters of blood in the body and 1 liter is equal to 1 thousand Milliliters. The minimal amount of saline needed to get someone up is 5.1 liters or “lost some blood” status.
+Saline is used to raise the Blood Pressure of a patient as well as stabilize a patient. It comes in these amounts; 250ml, 500ml, and 1000ml. For reference, the average person has a baseline around 6000 ml. The minimal amount of blood needed for someone to wake up is 5100ml or “lost some blood” status.
 
 ### Injectors and Pain Killers
 

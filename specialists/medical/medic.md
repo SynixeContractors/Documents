@@ -1,12 +1,19 @@
 # Medical Specialist – Medic
+
 Medics are the first-line support for wounded soldiers. Medics are trained to perform a wide range of medical tasks, including treating wounds, administering drugs, and administering medical equipment. A medic's ability to perform these tasks is crucial to the success of the team.
 When deployed as a medic, it is important to remember that you are there to support your team, not to be on the front line of the battle. Even when you’re part of the front, you should still be aware of your surroundings and be protected. You cannot help anyone if you are unconscious, or dead.
+
 ## Communication
+
 Since the medic is such a crucial part of the team, effective communication is critical. Medics should be assertive and direct; you are in charge of all medical procedures.
 When you rendezvous with another team, give a quick shout asking if anyone is in need of medical assistance.
+
 ### Patient Ownership
+
 Each person requiring medical aid should have only a single medic responsible for their care. If there are two medics working in close proximity, it is important to make sure that they are aware of each other and are working together. The medics will call out who they are responsible for and will ask for permission to perform tasks or take over a patient that another medic is responsible for.
+
 ## Injuries
+
 **Avulsion**: Tissue forcefully torn away from where it belongs. On legs they cause a limp even without fractures. A severe type of wound with extreme pain and a high rate of bleeding.
 
 **Velocity**: Deep penetrating wounds often caused by bullets. Hitting bone, they can cause fractures. extreme pain, fastest bleeding.
@@ -32,10 +39,13 @@ Each person requiring medical aid should have only a single medic responsible fo
 **Pneumothorax**: An injury to the thorax that can be heard with a stethoscope. It can be diagnosed by seeing blood oxygen levels dropping quickly on the pulse oximeter. This is currently treated by using a chest seal on the patient’s thorax. A patient cannot have all three of these ailments.
 
 ## Medical Equipment
+
 ### Airways
+
 **Guedel Tubes**: Allows an unconscious patient to breathe by preventing the airways from being blocked. Will be removed when the patient is conscious. With a guedel tube applied to the patient you or another person will have to listen for audio cues to know when the patient throws up meaning the airway will be occluded and head turning will need to be done until the airway is no longer occluded. Alternatively, an accuvac can be used to clear the occlusion. A Guedel Tube satisfies the “Airway Management Needed” aspect of the airways.
 
 **KingLT**: KingLTs are similar to the guedel tubes in that they allow a patient to breathe by preventing the airways from being blocked. However, after you use a KingLT on a patient you WILL NOT have to worry about the patient’s airways becoming occluded again until they wake up. These are good to use in a mass casualty event where there are multiple patients and all contractors still conscious are busy returning fire. A KingLT satisfies the “Airway Management Needed” aspect of the airways.
+
 **Accuvac**: An accuvac is a device used to remove an occlusion from an airway. This can take the place of head turning
 
 ### Respiratory System 

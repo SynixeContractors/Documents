@@ -1,10 +1,16 @@
 # Specialists
 
+## Anti-Tank
+
+1. [Light Anti-Tank](certs/lat.md)
+2. [Medium Anti-Tank](specialists/anti-tank/mat.md)
+3. Heavy Anti-Tank
+
 ## Medical
 
 1. [Combat Medic](specialists/medical/medic.md)
 <!-- 2. [Field Doctor](specialists/medical/doctor.md) -->
-2. Field Doctor (Coming Soon)
+<!-- 2. Field Doctor -->
 <!-- 3. [Director of Medical Operations](specialists/medical/director.md) -->
 
 ## Engineer
@@ -14,13 +20,13 @@
 3. [Explosives Handling](specialists/engineer/explosives.md)
 4. [EOD](specialists/engineer/eod.md)
 <!-- 5. [Construction](specialists/engineer/construction.md) -->
-5. Construction (Coming Soon)
+5. Construction
 
 ## Marksman
 
 1. [Marksman](specialists/marksman/marksman.md)
 <!-- 2. [Sharpshooter](specialists/makrsman/sharpshooter.md) -->
-2. Sharpshooter (Coming Soon)
+2. Sharpshooter
 <!-- 3. [Sniper & Spotter](specialists/marksman/sniper.md) -->
 
 ## Gunner

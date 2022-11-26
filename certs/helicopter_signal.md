@@ -20,7 +20,7 @@ For each LZ:
 - 1x Green Signal
 - 2x Yellow Signal
 
-### Usage
+## Usage
 
 Finding a suitable LZ is done by:
 

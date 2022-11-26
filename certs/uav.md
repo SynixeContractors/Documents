@@ -6,7 +6,7 @@ UAV Operators will be able to operate remote systems for the purpose of scouting
 
 !> Note: UAV Operators are required to have their PiP quality set to Ultra.
 
-## Specialized Equipment
+### Specialized Equipment
 
 Completing the certification for UAV Operator will unlock the ability to purchase a UAV Terminal and UAV Batteries.
 

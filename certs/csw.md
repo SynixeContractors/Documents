@@ -8,9 +8,9 @@ A crew-served weapon is any weapon system that is issued to a crew of two or mor
 
 Completing the CSW certification will allow the contractor to utilize CSW on future contracts including the M2 Static .50 and the static Mini-Spike Static AA. Both utilize the M3 Deployable Tripod.
 
-### Usage
+## Usage
 
-#### CSW Types
+### CSW Types
 - Static Mini-Spike
   - Often referred to as “Static AA”
   - The Mini-Spike should be used when the airspace is occupied with enemies
@@ -21,7 +21,7 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
   - Your ordinary static machine gun. It's even used on technicals!
 
 
-#### Assembly
+### Assembly
 
 When assembling the CSWs, it is pretty straightforward.
 

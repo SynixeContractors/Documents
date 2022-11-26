@@ -8,9 +8,9 @@ A grenadier is primarily a standard operator, and is not considered a specialize
 
 Completing the certification for Grenadier will unlock the ability to purchase and operate weapons with an Underslung Grenade Launcher (UGL). The UGL is a support weapon that should only be used in the appropriate situations. It is capable of firing launchable payloads accurately up to 400m.
 
-### Usage
+## Usage
 
-#### Callouts
+### Callouts
 
 Similar to throwing a grenade, every time you discharge a UGL a call should be made over proximity voice. The call should be in the format:
 
@@ -26,7 +26,7 @@ Examples
 
 The call out should not slow down your ability to respond to threats. At a minimum you must always call out "HE Out".
 
-#### Risks of Use
+### Risks of Use
 
 When firing HE Rounds you need to know the impact radius and fragmentation of the
 round to maximize injury on the enemy and reduce friendly injuries.
@@ -40,19 +40,19 @@ The approximate lethality of an HE Round is:
 
 Regardless of range there is always a chance of being hit by a piece of shrapnel.
 
-#### Vehicles
+### Vehicles
 
 Civilian and unarmored vehicles can be disabled with 1 or 2 hits from an UGL to the engine or body. Most wheels can be destroyed with a single UGL hit. UGL HE rounds are ineffective against armoured targets, but can be effective against dismounting personnel.
 
-#### Danger Close
+### Danger Close
 
 UGL HE rounds should not be fired within 150m of friendly units to avoid incidental blue-on-blue.
 
-#### Civilian Environments
+### Civilian Environments
 
 Due to the wide range of UGL HE rounds, they should not be used when civilians are within 500m of the target.
 
-#### Ammo Types
+### Ammo Types
 
 - HE (High Explosive)
   - Also known as "40 mil" or "40 Mike Mike"
@@ -67,7 +67,7 @@ Due to the wide range of UGL HE rounds, they should not be used when civilians a
   - Lasts 25 seconds
   - Max range of 250m regardless of range used
 
-#### Travel Time
+### Travel Time
 
 UGL fired projectiles travel at 80 m/s, slowing down over time.
 

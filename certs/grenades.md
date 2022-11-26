@@ -8,9 +8,9 @@ All operators should be expected to familiarize themselves with the use of hand 
 
 Completing the certification for hand grenades will unlock the usage of fragmentation grenades as well as stun grenades.
 
-### Usage
+## Usage
 
-#### Callouts
+### Callouts
 
 Every time you toss a grenade, a call should be made over proximity voice. The call should be in the format:
 
@@ -36,7 +36,7 @@ Example:
 
 > Bad stun! East!
 
-#### Risks of Use
+### Risks of Use
 
 When throwing fragmentation grenades, you need to know the impact radius and fragmentation radius to maximize injury on the enemy and reduce friendly injuries.
 
@@ -50,18 +50,18 @@ The approximate lethality of an M67 fragmentation grenade is:
 Regardless of range there is always a chance of being hit by a piece of shrapnel.
 Due to this risk, proper employment should always consist of throwing the grenade and immediately seeking cover.
 
-#### Vehicles
+### Vehicles
 
 It is possible for fragmentation grenades to disable civilian or unarmored vehicles, however, they would need to be right on top of the grenade.
 It is best practice to exhaust all other means of disabling a vehicle before attempting to throw a frag.
 
-#### Buildings
+### Buildings
 
 Fragmentation and stun grenades are most effective when used in enclosed spaces due to the overpressure of the enclosed area along with the shrapnel caused by the fragmentation.
 A stun or fragmentation grenade should be chosen accordingly based on whether non-combatants are inside of the room/building.
 If they are a stun is preferred.
 
-#### Grenade Types
+### Grenade Types
 
 - Fragmentation (M67)
   - Also known as 'frags'
@@ -80,7 +80,7 @@ If they are a stun is preferred.
   - Deploys immediately
   - Used to mark cleared rooms or cleared areas at nighttime
 
-#### ACE Throwing
+### ACE Throwing
 
 ACE throwing makes grenades easier to use in Arma 3.
 Two additional keybinds are added in two different modes to assist with grenade usage, as well as a HUD element.
@@ -88,7 +88,7 @@ Two additional keybinds are added in two different modes to assist with grenade 
 Operators should always endeavor to use ACE Throwing as it allows for more accurate employment of the weapons.
 When throwing a grenade through a window, the operator should ensure the window is broken first. Otherwise the grenade will not go through and instead bounce back at the operator's feet.
 
-##### Keybinds
+#### Keybinds
 
 - Shift + G
   - Pulls up ACE throwing. You will see the current grenade type, as well as a small keymap along with multiple dots in an arc fashion.

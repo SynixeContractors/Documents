@@ -13,7 +13,7 @@ For each LZ:
 
 - 1x colored smoke grenade
 
-High brightness chemlights are used to mark an LZ at night.
+Signal flares are used to mark an LZ at night.
 For each LZ:
 
 - 1x Red Signal
@@ -31,7 +31,9 @@ Finding a suitable LZ is done by:
 During the day the LZ is marked by a colored smoke grenade. The color **must not** be broadcast over the radio.
 The color must either be predetermined before the mission or called out by the helicopter pilot and confirmed on the ground.
 
-During the night the LZ is marked by hand signals or high brightness chemlights using the patterns marked below. The helicopter will approach the LZ from the side of the red and green marks, landing between them and the furthest yellow mark. The high brightness chemlights used will provide a signal that is visible for 30 minutes.
+During the night the LZ is marked by hand signals or high brightness chemlights using the patterns marked below. The helicopter will approach the LZ from the side of the yellow marks, landing between the furthest yellow mark and the red and green.
+
+!> Signal flares only last for 60 seconds. The signaller must wait for the helicopter to request the flares. The LZ must be marked again if the helicopter is unable to land within that time.
 
 #### Standard Approach
 
@@ -68,4 +70,4 @@ During the night the LZ is marked by hand signals or high brightness chemlights 
 
 2. When should helicopter signalling be used?
 
-3. When should smoke grenades / chemlights be used?
+3. When should smoke grenades / flares be used?

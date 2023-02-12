@@ -192,6 +192,13 @@ The capabilities of the Vector 21 are:
 
 - Junior Member
 
-### Theoretical exam
+### Theoretical Exam
 
 The trainee is able to answer random questions regarding the usage of both devices.
+
+### Practical Exam
+
+1. The trainee is able to navigate to a position provided by the instructor using the DAGR.
+2. The trainee is able to navigate to a position provided by the instructor using the MicroDAGR.
+3. The trainee is able to use the Vector 21 to provide information about structures designated by the instructor.
+4. The trainee is able to provide information to a remote team about a structure designated by the instructor.

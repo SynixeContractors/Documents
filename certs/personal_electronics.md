@@ -6,8 +6,92 @@ Acquiring the Personal Electronics certification will allow contractors to make 
 
 ### Equipment
 
+- DAGR GPS
 - MicroDAGR GPS
 - Vector 21 rangefinder
+
+## DAGR
+
+The DAGR is a military grade Geo-Positioning System that provides the user with navigational data in order to help them traverse the enviornment.
+
+The features of the DAGR are:
+- Current coordinates
+- Current speed
+- Elevation (above or below sea level)
+- Compass bearing
+- Local time
+- Creating, naming and deleting waypoints
+- The DAGR is also able to connect to your vector to retrieve data from it.
+
+### Usage
+
+1. Bringing up the DAGR
+    1. Self interact by holding Ctrl + Win.
+    2. Select Equipment.
+    3. Select configure DAGR.
+    4. Press the Home key to bring it up in order to configure it.
+
+2. The DAGR interface
+
+![DAGR menu](images/dagr_menu.jpg)
+
+![DAGR data view](images/dagr_data_view.jpg)
+
+    1. Data view
+    2. Go to waypoint
+    3. Waypoint list
+    4. Connect to
+    5. Options menu
+    6. 7 & 8 Function buttons
+    7. Power button
+    8.  11 12 & 13 Navigation buttons
+    9.  Menu button
+    10. Select button
+    11. Grid coordinates
+    12. Current speed
+    13. Compass bearing
+    14. Current elevation
+    15. Local time
+
+1. Viewing data
+
+    When you first pull out the DAGR it will automatically be in the data view mode. If you ever exit it and wish to set it again simply select the data view option in the menu.
+
+2. Waypoint usage
+   1. Adding a waypoint
+      1. On the menu use the navigation buttons to select the waypoint list .
+      2. Once there press the F1 button in order to add a waypoint.
+      3. Using the navigation buttons input the desired coordinates.
+      4. Press F1 to save the waypoint.
+
+    2. Setting a waypoint
+       1. On the menu use the navigation buttons to select Go to waypoint.
+       2. With the navigation buttons select the waypoint you wish to go to.
+       3. With that done you can now see on data view the coordinates and bearing of your waypoint along side your current ones and the distance to your target.
+
+    3. Deleting a waypoint
+       1. On the menu use the navigation buttons to select the waypoint list.
+       2. Once there use the navigation buttons to select the waypoint you wish to delete.
+       3. Press F3 to delete the waypoint.
+
+3. Connecting to the Vector 21 rangefinder
+   1. On the menu use the navigation buttons to select Connect to.
+   2. Once there select the Vector 21 rangefinder.
+   3. Once it is connected when you range something with the vector you will see the information displayed on your DAGR. Note that the information will change to your current one once you move.
+
+4. Changing the signal delay
+   1. On the menu use the navigation buttons to select Options.
+   2. Once there select Signal Delay.
+   3. Use the up and down button to increase and decrease the delay respectively.
+   4. The lower the delay the faster the information on you GPS will update.
+
+5. Changing the bearing unit from degrees to MILS
+   1. On the menu use the navigation buttons to select Options.
+   2. Once there select Directions:
+   3. Change the unit to that which you desire.
+
+    Note that the default unit is Degrees.
+
 
 ## MicroDAGR
 
@@ -29,12 +113,14 @@ The features of the MicroDAGR are:
     1. Self interact by holding Ctrl + Win.
     2. Select Equipment.
     3. Select configure MicroDAGR.
+    4. Press the Home key to bring it up in order to configure it.
 
 2. The MicroDAGR interface
 
 ![MicroDAGR interface](images/microdagr-interface.png)
 
 ![MicroDAGR interface table](images/microdagr-interface-table.png)
+
 
 1. Waypoint usage
     1. Adding waypoints

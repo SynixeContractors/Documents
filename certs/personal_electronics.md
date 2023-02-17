@@ -53,11 +53,11 @@ The features of the DAGR are:
     14. Current elevation
     15. Local time
 
-1. Viewing data
+3. Viewing data
 
     When you first pull out the DAGR it will automatically be in the data view mode. If you ever exit it and wish to set it again simply select the data view option in the menu.
 
-2. Waypoint usage
+4. Waypoint usage
    1. Adding a waypoint
       1. On the menu use the navigation buttons to select the waypoint list .
       2. Once there press the F1 button in order to add a waypoint.
@@ -74,18 +74,18 @@ The features of the DAGR are:
        2. Once there use the navigation buttons to select the waypoint you wish to delete.
        3. Press F3 to delete the waypoint.
 
-3. Connecting to the Vector 21 rangefinder
+5. Connecting to the Vector 21 rangefinder
    1. On the menu use the navigation buttons to select Connect to.
    2. Once there select the Vector 21 rangefinder.
    3. Once it is connected when you range something with the vector you will see the information displayed on your DAGR. Note that the information will change to your current one once you move.
 
-4. Changing the signal delay
+6. Changing the signal delay
    1. On the menu use the navigation buttons to select Options.
    2. Once there select Signal Delay.
    3. Use the up and down button to increase and decrease the delay respectively.
    4. The lower the delay the faster the information on you GPS will update.
 
-5. Changing the bearing unit from degrees to MILS
+7. Changing the bearing unit from degrees to MILS
    1. On the menu use the navigation buttons to select Options.
    2. Once there select Directions:
    3. Change the unit to that which you desire.
@@ -122,7 +122,7 @@ The features of the MicroDAGR are:
 ![MicroDAGR interface table](images/microdagr-interface-table.png)
 
 
-1. Waypoint usage
+3. Waypoint usage
     1. Adding waypoints
     
         There are three different ways of adding a waypoint
@@ -176,16 +176,16 @@ The features of the MicroDAGR are:
         3. Select the waypoint.
         4. Click on Delete.
 
-2. Switching between mils and degrees
+4. Switching between mils and degrees
     1. Go to the options menu (Click in 1 area, above the bar).
     2. Click on Settings (21)
     3. Double left click on the unit next to Angular unit:
 
-3. Switching between topographical and satellite view
+5. Switching between topographical and satellite view
     1. Go to the map menu (9)
     2. Click on the map menu button again (9)
 
-4. Retrieving data from the Vector 21.
+6. Retrieving data from the Vector 21.
     1. For this you need a Vector 21.
     2. Go to the options menu (Click in 1 area, above the bar).
     3. Click on Connect to (20).

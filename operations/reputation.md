@@ -15,7 +15,7 @@ Some of the factors that negatively affect reputation are:
 - Violating the rules of engagement
 - Supporting or participating in illegal activities
 - Supporting parties that are engaged in illegal activities
-- Supporting parties engaged in activities that are inconsistent with the values of Synixe Contractors, or our partners
+- Supporting parties engaged in activities that are inconsistent with the values of Synixe Contractors or our partners
 
 Some of the factors that positively affect reputation are:
 - Saving civilian lives
@@ -24,11 +24,11 @@ Some of the factors that positively affect reputation are:
 - Protecting friendly property
 - Reporting illegal activities
 - Reporting parties that are engaged in illegal activities
-- Reporting parties engaged in activities that are inconsistent with the values of Synixe Contractors, or our partners
+- Reporting parties engaged in activities that are inconsistent with the values of Synixe Contractors or our partners
 
 ## How Reputation Affects Us
 
-Reputation affects the way that we are treated by the international community. It affects the way that we are treated by our partners, and it affects the way that we are treated by the international community at large.
+Reputation affects the way that we are treated by our partners, and the way that we are treated by the international community at large.
 
 The rates and fees that we charge our clients are affected by our reputation. The more reputable we are, the more we can charge for our services. The less reputable we are, the less we can charge for our services.
 

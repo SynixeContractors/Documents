@@ -3,6 +3,7 @@
   * [Constitution](organization/constitution.md)
   * [Code of Conduct](operations/coc.md)
   * [Gameplay Rules](operations/rules.md)
+  * [Reputation](operations/reputation.md)
 
 * Getting Started
   * [Mods](starting/mods.md)

@@ -25,6 +25,16 @@
     - The base contains a designated shooting range.
     - There are hostile forces in the area.
 
+## Kits
+
+1. Your kit must contain all the required standard equipment.
+
+2. Your kit should be appropriate for the mission at hand.
+
+3. You should manage your weight and inventory space to remain within appropriate limits.
+
+4. You are required to own a standard rifle at all times, even if you are primarily using a specialist weapon.
+
 ## Pre-Mission
 
 1. The pre-mission phase is from 60 minutes before the mission start time until the mission start time. The server will be available 60 minutes before the mission start time.
@@ -33,9 +43,11 @@
 
 3. You should have all your required gear and be ready to go at mission start time. It is recommended that you connect at least 15 minutes before the mission start time if you have gear changes to make, or 5 minutes before if you have have a good kit from the end of the previous mission.
 
-4. If you know that you may need to be afk or leave early, you must inform your team leader and the Operation Leader before the mission starts so that they can plan accordingly.
+4. If you know you will be late, you must notify in Discord at least 30 minutes before the mission start time. You are allowed to be up to 15 minutes late when you notify in advance.
 
-5. Do not needlessly disrupt those who are leading the mission or conducting planning and preparation.
+5. If you know that you may need to be afk or leave early, you must inform your team leader and the Operation Leader before the mission starts so that they can plan accordingly.
+
+6. Do not needlessly disrupt those who are leading the mission or conducting planning and preparation.
 
 ## Planning
 
@@ -46,16 +58,16 @@
 ## Briefing
 
 1. The Operation Leader will conduct the briefing. The briefing will be conducted in the following order:
-    - Mission Overview
+    - Mission Overview  
         What is the overall situation in area?
-    - Mission Objectives
+    - Mission Objectives  
         What are we trying to accomplish?
-    - Mission Rules
+    - Mission Rules  
         Are there any special rules that we need to follow?
-    - Mission Details
+    - Mission Details  
         How are we going to accomplish our objectives?
-    - Mission Logistics
-        What gear do we have available?
+    - Mission Logistics  
+        What gear do we have available?  
         What support do we have available?
     - Questions
 
@@ -92,16 +104,23 @@
 
 2. The mission phase does not end until debriefing is complete.
 
-3. Your attention is expected to be on the mission while alive. While alive you are discouraged from:
+3. Maintain a level of immersive roleplay, assume that you are in a real life situation. Assume that all characters are real people, and that you are interacting with real people. Civilians and other units can hear you and may react to what you say, or it may affect the outcome of the mission.
+
+4. Do not needlessly disrupt those who are leading the mission.
+
+5. Your attention is expected to be on the mission while alive. While alive you are discouraged from:
     - Eating
     - Texting
     - Using mobile devices
     - Watching videos
     - Anything else that would distract you from the mission
 
-4. Maintain a level of immersive roleplay, assume that you are in a real life situation. Assume that all characters are real people, and that you are interacting with real people. Civilians and other units can hear you and may react to what you say, or it may affect the outcome of the mission.
+6. You are expected to be aware of your surroundings and to be able to react to threats.
 
-5. Do not needlessly disrupt those who are leading the mission.
+7. Off-topic chatter is allowed and encouraged during periods of downtime and travel, as long as it does not prevent you from being ready to react to the mission. Off-topic chatter should immediately pause when your attention is required for the mission, such as when:
+    - You are in combat
+    - Teams near you are in combat
+    - Leadership is giving orders or intel
 
 ## Debriefing
 

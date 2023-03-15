@@ -22,4 +22,4 @@
   * [Grenadier](certs/grenadier.md)
   * [UAV Operator](certs/uav.md)
 
-* [Specialists](specialists/index.md)
+* [Specialists](certs/specialists.md)

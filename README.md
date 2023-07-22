@@ -5,9 +5,8 @@
 Brett Harrison  
 Arsey Johnson  
 Felix de Jong
+Gary McLean
 
 ## VPs
 
-VP of the Tresury: Arsey Johnson  
 VP of Operations: Matías Jackson  
-VP of Medical: Jonathan Miller  

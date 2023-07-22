@@ -4,7 +4,7 @@
 
 Brett Harrison  
 Arsey Johnson  
-Felix de Jong
+Felix de Jong  
 Gary McLean
 
 ## VPs

@@ -34,6 +34,6 @@ During the planning phase of the operation the Operation Lead will set up the co
 
 ## Buddy
 
-After you've got your team set, you'll need your battle buddy. Typically they will be the person who is paired with you in your team. (For example:  4 operators per team, 2 pairs of battle buddies per team), setting them as your buddy will help you keep track of them in game. You do this by `ACE Interact on Buddy > Interactions > Assign Buddy`.
+After you've got your team set, you'll need your battle buddy. Typically they will be the person who is paired with you in your team. (For example:  4 operators per team, 2 pairs of battle buddies per team). Setting them as your buddy will help you keep track of them more easily in game, for example their colour on the map will be different. You do this by `ACE Interact on Buddy > Interactions > Assign Buddy`. 
 
 ![Buddy](images/buddy.jpg)

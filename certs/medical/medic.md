@@ -32,31 +32,9 @@ Each person requiring medical aid should have only a single medic responsible fo
 
 **Contusion**: A bruise. You cannot fix these with bandages, but they also do not lead to blood loss. They can cause moderate pain.
 
-**Hemopneumothorax**: An injury to the thorax that can be heard with a stethoscope. If one of the two sounds has crackles the patient has a Hemopneumothorax. This is currently treated by returning the patient to base or a proper medical facility determined in mission by leadership. A patient cannot have all three of these ailments.
-
-**Tension Pneumothorax**: An injury to the thorax that can be heard with a stethoscope. If one of the two sounds is short breaths the patient has a Tension Pneumothorax. This is currently treated by returning the patient to base or a proper medical facility determined in mission by leadership. A patient cannot have all three of these ailments.
-
-**Pneumothorax**: An injury to the thorax that can be heard with a stethoscope. It can be diagnosed by seeing blood oxygen levels dropping quickly on the pulse oximeter. This is currently treated by using a chest seal on the patient’s thorax. A patient cannot have all three of these ailments.
-
 ## Medical Equipment
 
-### Airways
-
-**Guedel Tubes**: Allows an unconscious patient to breathe by preventing the airways from being blocked. Will be removed when the patient is conscious. With a guedel tube applied to the patient you or another person will have to listen for audio cues to know when the patient throws up meaning the airway will be occluded and head turning will need to be done until the airway is no longer occluded. Alternatively, an accuvac can be used to clear the occlusion. A Guedel Tube satisfies the “Airway Management Needed” aspect of the airways.
-
-**KingLT**: KingLTs are similar to the guedel tubes in that they allow a patient to breathe by preventing the airways from being blocked. However, after you use a KingLT on a patient you WILL NOT have to worry about the patient’s airways becoming occluded again until they wake up. These are good to use in a mass casualty event where there are multiple patients and all contractors still conscious are busy returning fire. A KingLT satisfies the “Airway Management Needed” aspect of the airways.
-
-**Accuvac**: An accuvac is a device used to remove an occlusion from an airway. This can take the place of head turning
-
-### Respiratory System
-
-**Stethoscope**: Allows the medic to determine if there are injuries to the patient’s lungs. I.E. Hemopneumothorax or Tension Pneumothorax.
-
-**Chest Seal**: Used to close the chest of a patient that has been punctured, allowing air to enter or escape their chest cavity.
-
-### Pulse Oximeter and Splint
-
-**Pulse Oximeter**: Used to measure the heart rate and blood oxygen level of a patient.
+### Splint
 
 **Splint**: Used to stabilize a patient after a fracture.
 

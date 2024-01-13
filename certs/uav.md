@@ -184,7 +184,7 @@ When the crosshair is on top of the target, press `Control + T` to begin trackin
 
 2. What is the primary purpose of a UAV?
 
-3. When is a UAV appropriate for a mission? 
+3. When is a UAV appropriate for a mission?
 
 ### Practical Exam
 

@@ -48,7 +48,7 @@ Each person requiring medical aid should have only a single medic responsible fo
 
 **Accuvac**: An accuvac is a device used to remove an occlusion from an airway. This can take the place of head turning
 
-### Respiratory System 
+### Respiratory System
 
 **Stethoscope**: Allows the medic to determine if there are injuries to the patient’s lungs. I.E. Hemopneumothorax or Tension Pneumothorax.
 
@@ -84,4 +84,4 @@ Saline is used to raise the Blood Pressure of a patient as well as stabilize a p
 
 **Epinephrine**: Used to rapidly increase the heart rate of the patient. The effects last around 2 minutes. 10 doses of Epinephrine within a 2 minute window will overdose the patient.
 
-**Adenosine**: Used to rapidly decrease the heart rate of the patient. The effects last around 2 minutes. 6 doses of adenosine within a 2 minute window will overdose the patient. 
+**Adenosine**: Used to rapidly decrease the heart rate of the patient. The effects last around 2 minutes. 6 doses of adenosine within a 2 minute window will overdose the patient.

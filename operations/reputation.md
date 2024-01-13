@@ -7,6 +7,7 @@ Reputation is a measure of the international community's trust and confidence in
 The reputation is affected by several factors, both positive and negative. Some of these factors are automatically tracked by our systems, and some of them are manually tracked.
 
 Some of the factors that negatively affect reputation are:
+
 - Injuries to civilians
 - Injuries to friendly forces
 - Damage to civilian property
@@ -18,6 +19,7 @@ Some of the factors that negatively affect reputation are:
 - Supporting parties engaged in activities that are inconsistent with the values of Synixe Contractors or our partners
 
 Some of the factors that positively affect reputation are:
+
 - Saving civilian lives
 - Saving friendly lives
 - Protecting civilian property

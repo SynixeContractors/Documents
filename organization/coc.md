@@ -40,9 +40,9 @@ Our members are allowed to be in other Arma 3 communities that do not have a tim
 
 While we acknowledge that Arma 3 is a hobby, we still expect that you are making an active effort to be involed in our community. If you are looking for a place to play occasionally when you are in the mood, we encourage you to find another server. We are looking for people who are willing to dedicate time to our community and to the game.
 
-We require active members to attend a minimum of one contract every four weeks. This is to ensure that we have a regular attendance and our mission makers and leadership can consistently plan.
+We require active members to attend a minimum of one contract every three weeks. This is to ensure that we have a regular attendance and our mission makers and leadership can consistently plan.
 
-If you will be unable to attend for a longer period of time, please contact a member of our staff team. You are able to take a leave of absence for any length of time. Taking a leave of absence may affect your specialized roles, as your spot will be given to the next person on the waiting list. You will be put on the waiting list upon your return, assuming your certification is still valid.
+If you will be unable to attend for a longer period of time, please let a member of our staff team know. You are able to take a leave of absence for any length of time.
 
 ### Social Conduct
 

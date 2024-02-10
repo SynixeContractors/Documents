@@ -11,6 +11,7 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
 ## Usage
 
 ### CSW Types
+
 - Static Mini-Spike
   - Often referred to as “Static AA”
   - The Mini-Spike should be used when the airspace is occupied with enemies
@@ -19,7 +20,6 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
   - Also known as a “Static .50”
   - The M2 should be used when we are either in a fortified location as a defense asset or if we are posed against a bigger threat and we are in need of more firepower
   - Your ordinary static machine gun. It's even used on technicals!
-
 
 ### Assembly
 

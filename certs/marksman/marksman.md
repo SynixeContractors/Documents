@@ -34,10 +34,6 @@ Specialists are any unit that are using equipment that is not a part of the host
 
 ## Certification
 
-### Requirements
-
-- Member
-
 ### Theoretical Exam
 
 1. What are the primary responsibilities of a marksman?

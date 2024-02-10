@@ -39,10 +39,6 @@ Disassembly is just as easy, just assembly, but backwards.
 
 ## Certification
 
-### Requirements
-
-- Junior Member
-
 ### Theoretical Exam
 
 1. What is the order of assembly?

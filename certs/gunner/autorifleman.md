@@ -27,10 +27,6 @@ The automatic rifleman should be aware of how much ammunition they have remainin
 
 ## Certification
 
-### Requirements
-
-- Member
-
 ### Practical Exam
 
 1. The trainee is able to suppress a fireteam sized element.

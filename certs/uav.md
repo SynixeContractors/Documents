@@ -174,10 +174,6 @@ When the crosshair is on top of the target, press `Control + T` to begin trackin
 
 ## Certification
 
-### Requirements
-
-- Member
-
 ### Theoretical Exam
 
 1. What is the primary responsibility of a UAV Operator?

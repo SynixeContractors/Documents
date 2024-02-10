@@ -24,10 +24,6 @@ The Elcan SpecterDR has a ranging table based on 30 inches or 76 cm. This is the
 
 ## Certification
 
-### Requirements
-
-- Junior Member
-
 ### Practical Exam
 
 - The trainee is able to consistently estimate the range of targets between 300 - 700m to ±25m.

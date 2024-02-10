@@ -110,10 +110,6 @@ When throwing a grenade through a window, the operator should ensure the window 
 
 ## Certification
 
-### Requirements
-
-- Junior Member
-
 ### Theoretical Exam
 
 1. What are the ACE keybinds for ACE throwing?

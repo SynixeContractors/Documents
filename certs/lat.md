@@ -41,10 +41,6 @@ Examples
 
 ## Certification
 
-### Requirements
-
-- Junior Member
-
 ### Practical Exam
 
 #### Equipment

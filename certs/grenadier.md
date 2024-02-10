@@ -83,12 +83,7 @@ UGL fired projectiles travel at 80 m/s, slowing down over time.
 | 350               | 4.3            |
 | 400               | 5              |
 
-
 ## Certification
-
-### Requirements
-
-- Junior Member
 
 ### Theoretical Exam
 

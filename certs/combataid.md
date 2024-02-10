@@ -9,6 +9,7 @@ Combat Aid covers basic medical, such as wound treatment, and stabilizing; as we
 ### Specialized Equipment
 
 All rifleman are to carry a set of basic medical equipment, consisting of:
+
 * 5x Bandage (Packing)
     Packing Bandages will repopen, but will take a long time to do so. They are good when a medic is not currently available.
 * 5x Bandage (Quik Clot)
@@ -29,6 +30,7 @@ When treating yourself or another, it is highly reccomended to use the Medical M
 ![UI](images/medicalUI.jpg)
 
 Colors and icons that appear on the paper doll represent:
+
 * Light yellow to dark red: bleeding wound(s), darker means faster bleed rate
 * Light blue: stitched
 * Red bone: limb is fractured
@@ -89,7 +91,6 @@ The primary purpose for Combat Aid is to quickly treat each other's wounds durin
     * Splits may be applied at this time if teammate is conscious
     * Lastly call for a Medic to complete medical treatment
 
-
 #### MIST Report
 
 A MIST report is used to quickly convey the status of a downed teammate to the medic on site.
@@ -99,13 +100,7 @@ A MIST report is used to quickly convey the status of a downed teammate to the m
 * **Symptoms and Vitals**: Current status of the patient; Heart Rate, Blood Pressure, Airways, etc.
 * **Treatments**: What aid has been applied; Bandages, Tourniquet, Splints, etc.
 
-
 ## Certification
-
-### Requirements
-
-- Junior Member
-
 
 ### Theoretical Exam
 

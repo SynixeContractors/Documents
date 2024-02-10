@@ -43,11 +43,6 @@ The Metis-M has two different rocket types:
 
 ## Certification
 
-### Requirements
-
-- Member
-- LAT
-
 ### Practical Exam
 
 #### Equipment

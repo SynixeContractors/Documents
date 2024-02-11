@@ -1,5 +1,11 @@
 # Specialists
 
+## Leadership
+
+1. [Introduction](certs/leadership/introduction.md)
+2. [Equipment](certs/leadership/equipment.md)
+3. [Radios](certs/leadership/radios.md)
+
 ## Anti-Tank
 
 1. [Light Anti-Tank](certs/lat.md)
@@ -20,7 +26,7 @@
 3. [Explosives Handling](certs/engineer/explosives.md)
 4. [EOD](certs/engineer/eod.md)
 <!-- 5. [Construction](certs/engineer/construction.md) -->
-5. Construction
+<!-- 5. Construction -->
 
 ## Marksman
 

@@ -35,4 +35,4 @@ In our semi-milsim environment, the leadership is responsible for the safety and
 
 People in leadership positions need to be friendly and approachable, but also firm and assertive when necessary. They need to be able to make decisions and stick to them. We want our leadership to be confident and assertive to their teams, but not lose sight of the fact that they are also a part of the team and here to have fun.
 
-[Continue to Equipment](equipment.md)
+[Continue to Equipment](certs/leadership/equipment.md)

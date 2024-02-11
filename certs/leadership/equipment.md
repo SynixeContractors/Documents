@@ -51,4 +51,4 @@ The Vector 21 is a range finder that can be used to quickly and accurately deter
 
 A GPS devices that provides accurate location and navigation information. In some situations, it can be a benefit over our standard GPS.
 
-[Continue to Radios](radios.md)
+[Continue to Radios](certs/leadership/radios.md)

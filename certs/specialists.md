@@ -5,6 +5,7 @@
 1. [Introduction](certs/leadership/introduction.md)
 2. [Equipment](certs/leadership/equipment.md)
 3. [Radios](certs/leadership/radios.md)
+4. [Fire Team Leader](certs/leadership/fireteamlead.md)
 
 ## Anti-Tank
 

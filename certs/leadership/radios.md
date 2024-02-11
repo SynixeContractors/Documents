@@ -91,3 +91,5 @@ Sometimes, you may need to interject into a conversation. This is usually done b
 <span style="color:#FFABAB">Red</span>: Command, Red, understood, moving to support, over.
 <span style="color:#FFFFAB">Command</span>: Red, Command, acknowledged, out.
 </pre>
+
+[Continue to FTL](certs/leadership/fireteamlead.md)

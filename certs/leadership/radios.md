@@ -1,5 +1,10 @@
 # Leadership - Radios
 
+## Required Reading
+
+1. [Introduction](certs/leadership/introduction.md)
+2. [Equipment](certs/leadership/equipment.md)
+
 ## Command Net
 
 Using the command net effectively and correctly is a key part of being a leader. It is important to be able to communicate with other teams, and to be able to do so quickly and accurately.

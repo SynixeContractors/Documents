@@ -1,5 +1,9 @@
 # Leadership - Equipment
 
+## Required Reading
+
+1. [Introduction](certs/leadership/introduction.md)
+
 ## Kits
 
 Leadership is expected to tailor their equipment to the needs of their team and the operation. They should not take equipment that would take away from their ability to lead.

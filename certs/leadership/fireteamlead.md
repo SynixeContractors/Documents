@@ -1,5 +1,11 @@
 # Leadership - Fire Team Leader
 
+## Required Reading
+
+1. [Introduction](certs/leadership/introduction.md)
+2. [Equipment](certs/leadership/equipment.md)
+3. [Radios](certs/leadership/radios.md)
+
 A fire team leader (FTL) is the lowest level of leadership in Synixe. They are usually responsible for a team of 4 members, and are expected to be able to lead them effectively in combat. Their goal can range from "Move to that wall" to "Secure that town". They need to be ready to make decisions and operate as part of a large element, or independently.
 
 ## Gear Checks & Team Management

@@ -55,9 +55,9 @@ Scenario: Teams are moving towards a waypoint, and need to coordinate their move
 <span style="color:#FFABAB">Red</span>: Command, this is Red, message, over.
 <span style="color:#FFFFAB">Command</span>: Red, Command, send your message, over.
 <span style="color:#FFABAB">Red</span>: Command, we are at the waypoint, ready to move, over.
-<span style="color:#FFFFAB">Command</span>: Red, Command, wait for Blue to reach theirs, then clear the buildings, over.
+<span style="color:#FFFFAB">Command</span>: Red, wait for Blue to reach theirs, then clear the buildings, over.
 <span style="color:#FFABAB">Red</span>: Command, understood, will move when Blue is ready, over.
-<span style="color:#FFFFAB">Command</span>: Red, Command, acknowledged, over
+<span style="color:#FFFFAB">Command</span>: Red, acknowledged, over
 <span style="color:#FFABAB">Red</span>: Command, Red, out.
 </pre>
 
@@ -86,15 +86,15 @@ Sometimes, you may need to interject into a conversation. This is usually done b
 <span style="color:#FFABAB">Red</span>: Command, this is Red, message, over.
 <span style="color:#FFFFAB">Command</span>: Red, Command, send your message, over.
 <span style="color:#FFABAB">Red</span>: Command, we are at the waypoint, ready to move, over.
-<span style="color:#FFFFAB">Command</span>: Red, Command, wait for Blue to reach theirs, then clear the buildings, over.
+<span style="color:#FFFFAB">Command</span>: Red, wait for Blue to reach theirs, then clear the buildings, over.
 <span style="color:#ABABFF">Blue</span>: break, break, break, Blue
 **All stations should stop transmitting, blue waits a second, then transmits**
-<span style="color:#ABABFF">Blue</span>: Command, Blue, we have a large element that just arrived to our west, we are taking heavy fire, over.
-<span style="color:#FFFFAB">Command</span>: Blue, Command, understood, we'll send support, over.
-<span style="color:#ABABFF">Blue</span>: Command, Blue, copy, out.
-<span style="color:#FFFFAB">Command</span>: Red, Command, move immediately to support Blue, over.
-<span style="color:#FFABAB">Red</span>: Command, Red, understood, moving to support, over.
-<span style="color:#FFFFAB">Command</span>: Red, Command, acknowledged, out.
+<span style="color:#ABABFF">Blue</span>: Command, we have a large element that just arrived to our west, we are taking heavy fire, over.
+<span style="color:#FFFFAB">Command</span>: Blue, understood, we'll send support, over.
+<span style="color:#ABABFF">Blue</span>: Command, copy, out.
+<span style="color:#FFFFAB">Command</span>: Red, move immediately to support Blue, over.
+<span style="color:#FFABAB">Red</span>: Command, understood, moving to support, over.
+<span style="color:#FFFFAB">Command</span>: Red, acknowledged, out.
 </pre>
 
 [Continue to FTL](certs/leadership/fireteamlead.md)

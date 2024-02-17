@@ -21,5 +21,6 @@
   * [Scopes](certs/scopes.md)
   * [Grenadier](certs/grenadier.md)
   * [UAV Operator](certs/uav.md)
+  * [Personal Electronics](certs/personal_electronics.md)
 
 * [Specialists](certs/specialists.md)

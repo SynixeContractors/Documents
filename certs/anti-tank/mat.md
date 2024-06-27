@@ -16,7 +16,7 @@ Completing the certification for MAT Rifleman will unlock the ability to operate
 
 Both launchers have the ability to range targets. This is done by pressing the <kbd>T</kbd> while aiming down the sights.
 
-### MAAWS Mk4 Mod 1
+### MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System) Mk4 Mod 1
 
 The MAAWS provides a high rate of fire and the ability to fire up to 1,000 meters. It is the primary MAT weapon.
 
@@ -32,7 +32,7 @@ The MAAWS Mk4 Mod 1 has three different types of projectiles:
 
 ### Metis-M
 
-The Metis-M fires wire-guided rockets capable of hitting targets up to 2,000 meters away. It is the secondary MAT weapon.
+The Metis-M fires wire-guided rockets capable of hitting targets up to 2,000 meters away. It is the secondary MAT weapon. Being a wire-guided system, the operator must continually guide the rocket towards the target until impact.
 
 The Metis-M has two different rocket types:
 
@@ -54,15 +54,14 @@ The Metis-M has two different rocket types:
 
 - MAAWS Mk4 Mod 1
 
-- Armoured Car - 660m
-- Transport Truckl - 860m
-- APC - 1,030m
+- Truck     - 400m
+- Technical - 860m
+- Tank      - 960m
 
 #### Round 2
 
 - Metis-M
 
-- Transport Truck - 860m
-- APC - 1,030m
-- APC - 1,626m
-- Jeep - 1,720m
+- Tank      - 960m
+- Technical - 1,320m
+- Technical - 1,800m

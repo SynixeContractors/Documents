@@ -52,15 +52,16 @@ Examples
 
 - M72A6
 
-- Truck - 50m
-- Truck - 150m
+- Truck - 100m
 - Car   - 150m
+- Truck - 200m
 
 #### Round 2
 
 - M136
 
 - Car   - 150m
+- Truck - 200m
 - Car   - 250m
 - Car   - 350m
 - Truck - 400m

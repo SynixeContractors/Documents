@@ -40,11 +40,11 @@ Once the rocket has been launched, it is strongly encouraged that you and anyone
 
 #### Lock-On and Firing Sequence - In Brief
 
-1 - Locate the target and quickly assess the best firing mode.
-2 - Switch to thermals (<kbd>N</kbd>).
-3 - Hold <kbd>Tab</kbd> to lock the target.
-4 - Fire once lock-on is complete and you are ready to engage the target.
-5 - Move. They know where you are now.
+0. Locate the target and quickly assess the best firing mode.
+0. Switch to thermals (<kbd>N</kbd>).
+0. Hold <kbd>Tab</kbd> to lock the target.
+0. Fire once lock-on is complete and you are ready to engage the target.
+0. Move. They know where you are now.
 
 ## Certification
 

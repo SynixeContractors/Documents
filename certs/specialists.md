@@ -11,7 +11,7 @@
 
 1. [Light Anti-Tank](certs/lat.md)
 2. [Medium Anti-Tank](certs/anti-tank/mat.md)
-3. Heavy Anti-Tank
+3. [Heavy Anti-Tank](certs/anti-tank-hat.md)
 
 ## Medical
 

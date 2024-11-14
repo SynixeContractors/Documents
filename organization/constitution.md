@@ -42,7 +42,9 @@ Staff members are required to maintain a minimum attendance meeting at least one
 
 1. Attend at least 1 sanctioned event in any period of 30 days.
 
-2. Attend at least 1 sanctioned event in any period of 60 days, while maintaining activity in the community's staff communication.
+2. Attend at least 1 sanctioned event in any period of 60 days, while maintaining activity in the community's staff communication, and awareness of what is happening in the community.
+
+In the event that a staff member is inactive for more than 30 days, but meets another requirement, they will retain their ability to vote.
 
 ### 3.3.3 - Staff-in-Hiatus
 

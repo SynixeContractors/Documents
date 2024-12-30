@@ -40,7 +40,6 @@ The Metis-M has two different rocket types:
 
 **9M135 HEAT**: High Explosive Anti-Tank, use against medium to heavily armored vehicles.
 
-
 ## Certification
 
 ### Practical Exam

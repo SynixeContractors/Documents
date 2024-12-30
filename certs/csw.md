@@ -36,7 +36,6 @@ Disassembly is just as easy, just assembly, but backwards.
 2. Detach Gun or Missile
 3. Pickup tripod
 
-
 ## Certification
 
 ### Theoretical Exam

@@ -15,6 +15,7 @@ Acquiring the Personal Electronics certification will allow contractors to make 
 The DAGR is a military grade Geo-Positioning System that provides the user with navigational data in order to help them traverse the enviornment.
 
 The features of the DAGR are:
+
 - Current coordinates
 - Current speed
 - Elevation (above or below sea level)
@@ -121,7 +122,6 @@ The features of the MicroDAGR are:
 
 ![MicroDAGR interface table](images/microdagr-interface-table.png)
 
-
 3. Waypoint usage
     1. Adding waypoints
     
@@ -202,6 +202,7 @@ The features of the MicroDAGR are:
 The Vector 21 is a rangefinder with a larger set of capabilities than other choices that are more readily available. It comes in two versions the Vector 21 being the regular version and the Vector 21 Nite which enables the person carrying it to make use of night vision capabilities.
 
 The capabilities of the Vector 21 are:
+
 - Distance to a target
 - Azimuth to a target
 - Horizontal and vertical distance to a target

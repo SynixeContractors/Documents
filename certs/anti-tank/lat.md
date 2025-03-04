@@ -9,6 +9,7 @@ The primary role of the LAT rifleman is to eliminate light vehicle threats.
 ### Equipment
 
 - RPG-32
+- PSRL-1
 
 ## Usage
 
@@ -36,13 +37,15 @@ Examples
 > *Rifleman*: Clear Clear Clear  
 > *LAT*: Cancel Cancel Cancel, vehicle moved away
 
-### Rocket Selection
+### RPG-32
+
+#### Rocket Selection
 
 The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is an HE round equipped with a penetrator. This round is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a MAT or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 
-### RPG-32 Ranging Optic
+#### RPG-32 Ranging Optic
 
 The RPG-32 is equipped with an optic system designed to quickly estimate the range of the threat the operator is shooting at. Be advised that this system is designed for larger vehicles such as APC's and tanks, and will not provide accurate results against civilian vehicles such as trucks and jeeps.
 
@@ -56,9 +59,31 @@ When ranging technicals, the size of the vehicle is smaller than the threat the 
 
 ![Technical Ranging](../images/lat_technical.png)
 
+### PSRL-1
+
+#### Rocket Selection
+
+Similar to the RPG-32, the PSRL-1 also has several rocket variations available for use by LAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat.
+
+Even though the PRSL-1 has several Anti-Tank rocket options, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a MAT or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
+
+#### PSRL-1 PWS Ranging Optic
+
+The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "T" button. The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
+
 ## Certification
 
+### Theoretical Exam
+
+The trainee should be able to explain the process of firing Anti-Tank weapons.
+
+The trainee should be able to explain target selection for LAT operators.
+
+The trainee should be able to explain the difference between rocket variations (such as HE, AT, HEAT, and Frag), and when to utilize specific rocket types.
+
 ### Practical Exam
+
+The trainee will need to engage the following string of targets with the RPG-32, and the PSRL-1.
 
 - Car   - 150m
 - Truck - 200m

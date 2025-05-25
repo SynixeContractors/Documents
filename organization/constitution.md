@@ -2,7 +2,7 @@
 
 ## Section 1 - Name
 
-The name of this organization shall be "Synixe Contractors Community". Synixe is to be pronounced as IPA: /sɪnɪks/
+The name of this organization shall be "Synixe Contractors". Synixe is to be pronounced as IPA: /sɪnɪks/
 
 ## Section 2 - Purpose
 
@@ -24,7 +24,7 @@ There are four different stages of active membership.
 
 ### 3.2 - Gaining Membership
 
-Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit.
+Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit. Any person of the ages of 16 or 17 is allowed to apply for membership granted that they have been vouched for by a current member of the community, but approval is at the discretion of the Staff Members.
 
 Persons interested in joining Synixe Contractors will become a Junior Member after attending a minimum of 2 sanctioned events. The person must then go through a minimum probation period of 16 sanctioned events. After this period as a Junior Member, the Staff Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 

@@ -8,8 +8,8 @@ The primary role of the LAT rifleman is to eliminate light vehicle threats.
 
 ### Equipment
 
+- M72
 - RPG-32
-- PSRL-1
 
 ## Usage
 
@@ -20,6 +20,8 @@ Every rocket has a blackblast zone behind the launcher. This area needs to be cl
 ![LAT Stats](../images/lat_stats.png)
 
 The area needs to be clear of any people or large obstructions. Do not fire the weapon while against a wall or other structure that will redirect the overpressured air back towards you.
+
+Backblast also precludes you from firing the weapon indoors. There needs to be significant open and clear area inside of a structure for you to consider firing from there (such as big and high warehouse)
 
 ### Callouts
 
@@ -37,11 +39,26 @@ Examples
 > *Rifleman*: Clear Clear Clear  
 > *LAT*: Cancel Cancel Cancel, vehicle moved away
 
+> *LAT*: Clear backblast  
+> *Rifleman*: Backblast Area Clear  
+> *LAT*: On the way
+
+When backblast area is not clear
+
+> *LAT*: Clear backblast  
+> *Rifleman*: Hold Fire Hold Fire  
+> *LAT*: Cancel Cancel Cancel
+
+
+### M72 LAW (Light Anti-tank Weapon)
+
+The M72 LAW is a disposable (single use) anti-tank rocket launcher. Its designed to be very light and portable (in ready to fire condition its lighter then other empty launchers). It has a primitive iron sights without adjustments and is thus limited to close range engagements. Due to its expendable nature the tube is automatically ejected from inventory after firing.
+
 ### RPG-32
 
 #### Rocket Selection
 
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is an HE round equipped with a penetrator. This round is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
+The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is an multi-purpose round equipped with a shaped-charge penetrator and fragmentation sleeve. This round is can be use in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a MAT or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 
@@ -59,17 +76,6 @@ When ranging technicals, the size of the vehicle is smaller than the threat the 
 
 ![Technical Ranging](../images/lat_technical.png)
 
-### PSRL-1
-
-#### Rocket Selection
-
-Similar to the RPG-32, the PSRL-1 also has several rocket variations available for use by LAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat.
-
-Even though the PRSL-1 has several Anti-Tank rocket options, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a MAT or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
-
-#### PSRL-1 PWS Ranging Optic
-
-The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "T" button. The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
 
 ## Certification
 
@@ -79,14 +85,20 @@ The trainee should be able to explain the process of firing Anti-Tank weapons.
 
 The trainee should be able to explain target selection for LAT operators.
 
-The trainee should be able to explain the difference between rocket variations (such as HE, AT, HEAT, and Frag), and when to utilize specific rocket types.
+The trainee should be able to explain the difference between rocket variations (HE and HEAT)
 
 ### Practical Exam
 
-The trainee will need to engage the following string of targets with the RPG-32, and the PSRL-1.
+The trainee will need to engage the following string of targets with:
 
+M72 LAW
+- Car   - 150m
+- Truck - 200m
+
+RPG-32
 - Car   - 150m
 - Truck - 200m
 - Car   - 250m
 - Car   - 350m
 - Truck - 400m
+

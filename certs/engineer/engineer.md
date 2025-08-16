@@ -15,18 +15,18 @@ Engineers can build a variety of trenches to support their element's infantry an
 Trenches can be built on any terrain that is diggable and suffiently large and flat to support the desired trench size.
 
 <video width="75%" height="auto" autoplay loop>
-  <source src="/specialists/engineer/images/trench.webm" type="video/webm">
+  <source src="/certs/engineer/images/trench.webm" type="video/webm">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 ## Wire Cutting
 
 Engineers can cut through wire fences to allow their element to pass through. A wire cutter or backpack with wire cutters can be used to cut through wire fences.
 
 <video width="75%" height="auto" autoplay loop>
-  <source src="/specialists/engineer/images/wire-cutting.webm" type="video/webm">
+  <source src="/certs/engineer/images/wire-cutting.webm" type="video/webm">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 ## Tree and Bush Cutting
 

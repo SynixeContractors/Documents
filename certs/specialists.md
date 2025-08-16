@@ -9,7 +9,7 @@
 
 ## Anti-Tank
 
-1. [Light Anti-Tank](certs/lat.md)
+1. [Light Anti-Tank](certs/anti-tank/lat.md)
 2. [Medium Anti-Tank](certs/anti-tank/mat.md)
 3. [Heavy Anti-Tank](certs/anti-tank/hat.md)
 

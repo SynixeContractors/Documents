@@ -2,7 +2,7 @@
 
 ## Section 1 - Name
 
-The name of this organization shall be "Synixe Contractors Community". Synixe is to be pronounced as IPA: /sɪnɪks/
+The name of this organization shall be "Synixe Contractors". Synixe is to be pronounced as IPA: /sɪnɪks/
 
 ## Section 2 - Purpose
 
@@ -24,13 +24,31 @@ There are four different stages of active membership.
 
 ### 3.2 - Gaining Membership
 
-Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit.
+Any person at the age of 18 or older wishing to join Synixe Contractors will be able to join as a recruit. Any person of the ages of 16 or 17 is allowed to apply for membership granted that they have been vouched for by a current member of the community, but approval is at the discretion of the Staff Members.
 
 Persons interested in joining Synixe Contractors will become a Junior Member after attending a minimum of 2 sanctioned events. The person must then go through a minimum probation period of 16 sanctioned events. After this period as a Junior Member, the Staff Members will make a decision on permitting membership to the person. If accepted they will become a Member of the community.
 
 ### 3.3 - Staff
 
-Members that contribute to the continued success of the community may be selected by existing Staff Members to assist with the managing of the community.
+Members that contribute to the continued success of the community may be selected by existing Staff Members to assist with the managing of the community. Approval of all existing staff is required for a person to become a Staff Member.
+
+### 3.3.1 - Staff Powers
+
+Staff primarily have the power to enforce the rules of the organization. With the exception of access to administrative tools, staff are considered equal to all other members of the community and are subject to the same rules.
+
+### 3.3.2 - Staff Activity
+
+Staff members are required to maintain a minimum attendance meeting at least one of the following criteria:
+
+1. Attend at least 1 sanctioned event in any period of 30 days.
+
+2. Attend at least 1 sanctioned event in any period of 60 days, while maintaining activity in the community's staff communication, and awareness of what is happening in the community.
+
+In the event that a staff member is inactive for more than 30 days, but meets another requirement, they will retain their ability to vote.
+
+### 3.3.3 - Staff-in-Hiatus
+
+Staff members that will be unable to meet the activity requirements may request a hiatus from their duties. They will be moved to a "Staff-in-Hiatus" status and will not have any powers until they return to active status.
 
 ### 3.4 - Temporary Leave
 

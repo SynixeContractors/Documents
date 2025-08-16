@@ -15,7 +15,6 @@
 * Certifications
   * [Combat Aid](certs/combataid.md)
   * [Grenades](certs/grenades.md)
-  * [LAT](certs/lat.md)
   * [CSW](certs/csw.md)
   * [Helicopter Signalling](certs/helicopter_signal.md)
   * [Scopes](certs/scopes.md)

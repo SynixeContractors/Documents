@@ -4,7 +4,7 @@
 
 Combat Aid is taught to all riflemen, as a way to perform basic medical on their buddy and/or nearby teammates.
 
-Combat Aid covers basic medical, such as wound treatment, and stabilizing; as well as airway management.
+Combat Aid covers basic medical, such as wound treatment, and stabilizing.
 
 ### Specialized Equipment
 
@@ -18,8 +18,6 @@ All rifleman are to carry a set of basic medical equipment, consisting of:
     Tourniquets are used to stop a limb from bleeding, they can be removed after the patient has been stitched by a Medic
 * 1x Splint
     Splits are used to fix fractures; a fracture of the legs causes the patient to limp, whereas a fracture of the arm causes the patient to sway heavily while aiming
-* 1x Guedel tube
-    Guedel tubes are used to manage airways and allow the patient to breathe
 * 2x Painkillers
     Painkillers are used to manage pain, they cannot be taken within 5 minutes of each other and take 1-2 minutes to take effect
 
@@ -45,8 +43,6 @@ Within the Medical Menu there are 7 tabs under the `Examine & Treatment` tab. Th
     * Used to apply Bandages, Splints, Tourniquets, depending on what body part is being interacted with
   * Medication
     * Used for giving a patient medication such as Painkillers, Morphine, Epinephrine, or Adenosine. Painkillers can only be administerd while the head is selected.
-  * Airway Management
-    * Used to manage a patients airways, covered in `Airway Management`
   * Advanced Treatment
     * Used to perform CPR on an unconcious patient
   * Drag / Carry
@@ -56,26 +52,7 @@ Within the Medical Menu there are 7 tabs under the `Examine & Treatment` tab. Th
 
 ### Usage
 
-Performing aid can be broken down into the acronym ABC, standing for Airway, Breathing, Circulation.
-  * Begin by performing [Airway Management](###airway-management) to remove any obstructions
-  * Follow with ensuring their airways are clear by insering a guedel tube
-  * Lastly perform [Wound Treatment](###wound-treatment) and, if instructed, perform CPR.
-
 As a rifleman providing aid, once a Medic is on site if you are not instructed to perform an act of medical then it is no longer your responsibility.
-
-#### Airway Management
-
-Managing airways is crucial to keeping your partner alive until the dedicated Medic(s) can arrive. Managing airways consists of:
-  * Checking the patients airways (using Check airways)
-    * The airway can be in one of three states:
-      * No obstruction, No occlusion
-      * Obstructed, no occlusion
-      * Obstructed, occluded
-    * If airway management is needed/occluded a guedel tube must be inserted
-    * A guedel tube cannot be inserted if the airways are obstructed, turn the head (Head turning) until the obstruction is removed
-
-  The airways of a patient must be checked often, if an occlusion appears at any point you must repeatedly turn the head (Head turning) to clear the obstruction
-
 
 #### Wound Treatment
 
@@ -97,7 +74,7 @@ A MIST report is used to quickly convey the status of a downed teammate to the m
 
 * **Mechanism**: What was the cause of injury; Speed, Mass, Height, Restraints, Number/Type of collisions, Weapon Type
 * **Injuries**: What injuries have been caused; Backblast, Grenade, Bullet Wounds, etc.
-* **Symptoms and Vitals**: Current status of the patient; Heart Rate, Blood Pressure, Airways, etc.
+* **Symptoms and Vitals**: Current status of the patient; Heart Rate, Blood Pressure, Injuries, etc.
 * **Treatments**: What aid has been applied; Bandages, Tourniquet, Splints, etc.
 
 ## Certification
@@ -118,6 +95,4 @@ A MIST report is used to quickly convey the status of a downed teammate to the m
 
 1. The trainee is able to bandage and tourniquet all wounded limbs
 
-2. The trainee is able to manage and clear airways of patient
-
-3. The trainee is able to stabilize an unconscious patient
+2. The trainee is able to stabilize an unconscious patient

@@ -9,7 +9,6 @@ The primary role of the LAT rifleman is to eliminate light vehicle threats.
 ### Equipment
 
 - M72
-- RPG-32
 
 ## Usage
 
@@ -54,27 +53,6 @@ When backblast area is not clear
 
 The M72 LAW is a disposable (single use) anti-tank rocket launcher. Its designed to be very light and portable (in ready to fire condition its lighter then other empty launchers). It has a primitive iron sights without adjustments and is thus limited to close range engagements. Due to its expendable nature the tube is automatically ejected from inventory after firing.
 
-### RPG-32
-
-#### Rocket Selection
-
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is an multi-purpose round equipped with a shaped-charge penetrator and fragmentation sleeve. This round is can be use in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
-
-Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a MAT or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
-
-#### RPG-32 Ranging Optic
-
-The RPG-32 is equipped with an optic system designed to quickly estimate the range of the threat the operator is shooting at. Be advised that this system is designed for larger vehicles such as APC's and tanks, and will not provide accurate results against civilian vehicles such as trucks and jeeps.
-
-To begin, equip your RPG, and acquire the target in the sight. To estimate range, see which ranging hash most closly fits the vehicle as shown below.
-
-![Correct Ranging](../images/lat_btr.png)
-
-Vehicles may vary in size, so the ranging hashes may be slightly off, but this method should be reliable within acceptable limits.
-
-When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to ask someone for a range to target before engaging.
-
-![Technical Ranging](../images/lat_technical.png)
 
 
 ## Certification
@@ -85,7 +63,6 @@ The trainee should be able to explain the process of firing Anti-Tank weapons.
 
 The trainee should be able to explain target selection for LAT operators.
 
-The trainee should be able to explain the difference between rocket variations (HE and HEAT)
 
 ### Practical Exam
 
@@ -94,11 +71,4 @@ The trainee will need to engage the following string of targets with:
 M72 LAW
 - Car   - 150m
 - Truck - 200m
-
-RPG-32
-- Car   - 150m
-- Truck - 200m
-- Car   - 250m
-- Car   - 350m
-- Truck - 400m
 

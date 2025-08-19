@@ -4,11 +4,11 @@
 
 An MAT rifleman is a specialized operator class, and is not considered a standard operator.
 
-The primary role of the MAT rifleman is to eliminate medium and large vehicle threats and provide direct fire anti-personel and anti-structure fires.
+The primary role of the MAT rifleman is to eliminate medium and large vehicle threats and provide direct fire anti-personnel and anti-structure fires.
 
 ### Specialized Equipment
 
-Completing the certification for MAT Rifleman will unlock the ability to operate MAT weapons. The standard MAT weapons are the RPG-32, PSRL-1 and MAAWS Mk4 Mod 1 .
+Completing the certification for MAT Rifleman will unlock the ability to operate MAT weapons. The standard MAT weapons are the RPG-32, PSRL-1 and MAAWS Mk4 Mod 1.
 
 ## Usage
 
@@ -16,7 +16,7 @@ Completing the certification for MAT Rifleman will unlock the ability to operate
 
 #### Rocket Selection
 
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a multi-purpose HEAT round equipped with a shaped-charge penetrator and fragmentation sleeve. This round is can be use in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
+The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a multi-purpose HEAT round equipped with a shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a heavier weapon or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 
@@ -24,13 +24,13 @@ Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to d
 
 The RPG-32 is equipped with an optic system designed to quickly estimate the range of the threat the operator is shooting at. Be advised that this system is designed for larger vehicles such as APC's and tanks, and will not provide accurate results against civilian vehicles such as trucks and jeeps.
 
-To begin, equip your RPG, and acquire the target in the sight. To estimate range, see which ranging hash most closly fits the vehicle as shown below.
+To begin, equip your RPG, and acquire the target in the sight. To estimate range, see which ranging hash most closely fits the vehicle as shown below.
 
 ![Correct Ranging](../images/lat_btr.png)
 
 Vehicles may vary in size, so the ranging hashes may be slightly off, but this method should be reliable within acceptable limits.
 
-!> Military vehicles are often close to half as wide as they are long (especially tracked ones), so half of the scale can be use for ranging.
+!> Military vehicles are often close to half as wide as they are long (especially tracked ones), so half of the scale can be use for ranging vehicles front on.
 
 When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to ask someone for a range to target before engaging.
 
@@ -72,7 +72,7 @@ The MAAWS Mk4 Mod 1 has three different types of projectiles:
 
 ### Buddy loading
 
-All multi-use launchers in Arma 3 can be used as two-man team with gunner and loader. This can increase rate of fire and target aquisition speed. The gunner can focus on looking for targets through the sight while the launcher is operated by the loader
+All multi-use launchers in Arma 3 can be used as two-man team with gunner and loader. This can increase rate of fire and target acquisition speed. The gunner can focus on looking for targets through the sight while the launcher is operated by the loader
 
 This can be done by loader operator having compatible rounds in their inventory. Loader should stand on the right side of gunner looking towards the backblast area and then using ace interact on the gunner's empty launcher. Loader should take primary the responsibility for clearing backblast.
 

@@ -8,9 +8,20 @@ The primary role of the HAT rifleman is to eliminate large and heavily armored v
 
 ### Specialized Equipment
 
-Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapon is the Titan MPRL Compact.
+Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapons are Metis-M and Titan MPRL Compact.
 
 ## Usage
+
+### Metis-M
+
+The Metis-M fires wire-guided missiles capable of hitting targets up to 2,000 meters away. It is the cheaper HAT weapon. Being a SACLOS (Semi-automatic Command Line of Sight) weapon, the operator must continually keep the sight on the target until impact.
+
+The Metis-M has two different rocket types:
+
+**9M135 HE**: High Explosive, use against light to medium armored vehicles.
+
+**9M135 HEAT**: High Explosive Anti-Tank, use against medium to heavily armored vehicles.
+
 
 ### Titan MPRL Compact
 
@@ -50,6 +61,7 @@ Once the rocket has been launched, it is strongly encouraged that you and anyone
 
 ### Theoretical Exam
 
+- What is the maximum engagement range for the Metis-M?
 - What is the maximum engagement range for the Titan MPRL Compact?
 - What are the two fire modes of the Titan MPRL Compact, and when should they be used?
 - What are the three indicators that the Titan MPRL Compact has a solid lock on the target?
@@ -59,9 +71,19 @@ Once the rocket has been launched, it is strongly encouraged that you and anyone
 
 #### Equipment
 
+- Metis-M
 - Titan MRPL Compact
 
-#### Round 1
+### Round 1
+Metis-M
+
+- Tank      - 960m
+- Technical - 1,320m
+- Technical - 1,800m
+
+#### Round 2
+Titan MPRL Compact
 
 - Locate the tank on the plains, and hit it using a direct attack rocket.
 - Locate the tank on the plains, and hit it using a top attack rocket.
+

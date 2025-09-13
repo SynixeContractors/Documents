@@ -45,7 +45,7 @@ All three launchers have the ability to range targets. This is done by pressing 
 
 #### Rocket Selection
 
-The PSRL-1 also has several rocket variations available for use by MAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat. All rockets have a safety fuze of 900m.
+The PSRL-1 also has several rocket variations available for use by MAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat. All rockets have a safety fuse of 900m.
 
 Even though the PSRL-1 has several Anti-Tank rocket options, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, heavier HEAT warheads of MAAWS or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 

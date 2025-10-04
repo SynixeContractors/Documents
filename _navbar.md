@@ -22,4 +22,10 @@
   * [UAV Operator](certs/uav.md)
   * [Personal Electronics](certs/personal_electronics.md)
 
+* [Universe](universe/index.md)
+  * [Virelia](universe/virelia.md)
+  * [Calvane](universe/calvane.md)
+  * [Drovak](universe/drovak.md)
+  * [Organizations](universe/organizations.md)
+
 * [Specialists](certs/specialists.md)

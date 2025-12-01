@@ -10,7 +10,7 @@ It has a history of assimilating smaller allies deeply into its sphere of influe
 
 ## Information
 
-Primary Language: French
+Primary Language: English
 
 ## Military Equipment
 

@@ -16,7 +16,7 @@ Completing the certification for MAT Rifleman will unlock the ability to operate
 
 #### Rocket Selection
 
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a multi-purpose HEAT round equipped with a shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
+The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a Multi-Purpose Anti Tank round equipped with a shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a heavier weapon or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 
@@ -91,7 +91,7 @@ Load and Fire Procedure
 
 ### Theoretical Exam
 
-The trainee should be able to explain the difference between rocket variations (such as HE, AT, HEAT, and Frag), and when to utilize specific rocket types.
+The trainee should be able to explain the difference between rocket variations (such as HE, Frag, HEAT, Tandem HEAT), and when to utilize specific rocket types.
 
 ### Practical Exam
 

@@ -27,5 +27,8 @@
   * [Calvane](universe/calvane.md)
   * [Drovak](universe/drovak.md)
   * [Organizations](universe/organizations.md)
+  * [Blufor](universe/blufor/index.md)
+  * [Opfor](universe/opfor/index.md)
+  * [Indep](universe/indep/index.md)
 
 * [Specialists](certs/specialists.md)

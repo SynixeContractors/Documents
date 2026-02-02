@@ -10,6 +10,6 @@ A noteable difference from the real world is the absence of nuclear weapons, whi
 
 There are three major powers in the Synixe Universe:
 
-- [Virelia](virelia.md)
-- [Calvane](calvane.md)
-- [Drovak](drovak.md)
+- [Virelia](universe/virelia.md)
+- [Calvane](universe/calvane.md)
+- [Drovak](universe/drovak.md)

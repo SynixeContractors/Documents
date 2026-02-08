@@ -118,9 +118,11 @@ The possession of weapons and other specialized equipment that you are not quali
 
 #### Insubordination
 
-Once an order has been given, you are expected to follow it to the best of your ability. If you are not following the orders of a member above you, you could be subject to temporary or permanent suspension.
+Once an order has been given, you are expected to follow it to the best of your ability. If you are not following the orders of a member above you, you could be subject to a fine, or temporary or permanent suspension.
 
 The time to discuss issues with the given orders is during our debriefing.
+
+If the order would unnecesarily risk yourself, a fellow Synixe Contractor, the lives of neutral or civilian parties, or break any of Synixe's rules, it should be refused and reported to the OL or a staff member.
 
 #### Intentional Friendly Fire
 

@@ -6,7 +6,8 @@ TBD
 
 ## Information
 
-Primary Language: Russian
+Primary Language: Russian  
+Adjectival: Chernorussian  
 
 ## Military Equipment
 

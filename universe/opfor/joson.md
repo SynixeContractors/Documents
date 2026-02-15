@@ -8,7 +8,8 @@ National People's Army inheriting its ideas from the civilian parts of the gover
 
 ## Information
 
-Primary Language: Chinese
+Primary Language: Chinese  
+Adjectival: Josonese  
 
 ## Military Equipment
 

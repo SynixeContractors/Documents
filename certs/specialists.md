@@ -16,9 +16,6 @@
 ## Medical
 
 1. [Combat Medic](certs/medical/medic.md)
-<!-- 2. [Field Doctor](certs/medical/doctor.md) -->
-<!-- 2. Field Doctor -->
-<!-- 3. [Director of Medical Operations](certs/medical/director.md) -->
 
 ## Engineer
 

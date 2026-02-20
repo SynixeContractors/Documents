@@ -20,7 +20,7 @@ Once you are done click on the balance button on the lower left which will we be
 
 ![Arsenal3](images/ars3.jpg)
 
-Afterwards you will want to click apply in the bottom right to ensure the gear you are wearing gets put onto your character like the normal ACE Arsenal.
+Afterwards you will want to click apply in the bottom right to ensure the gear you are wearing gets put onto your character like the normal ACE Arsenal. It is always a good idea to save your loadout so it can be easily accessed for future operations.
 
 ## Radio
 
@@ -30,10 +30,13 @@ When you get out of the arsenal, the first thing you'll want to do is setup your
 
 ## Joining a Team
 
-During the planning phase of the operation the Operation Lead will set up the contractors in different teams which are colour coded. You can check the map to see who your teammates are gonna be and what colour you team will be.
+During the planning phase of the operation the Operation Lead will set up the contractors in different teams. You can check the map to see who your teammates are gonna be and what your team's name is.
 
 ## Buddy
 
-After you've got your team set, you'll need your battle buddy. Typically they will be the person who is paired with you in your team. (For example:  4 operators per team, 2 pairs of battle buddies per team). Setting them as your buddy will help you keep track of them more easily in game, for example their colour on the map will be different. You do this by `ACE Interact on Buddy > Interactions > Assign Buddy`.
+After you know who your team is, you'll need to see who your buddy is. Each of our teams are broken down into colored pairs. (For example: 6 operators per team, 3 colored teams per team). The teams will be:
 
-![Buddy](images/buddy.jpg)
+1. <span style="color: yellow">Yellow Team - Has the FTL</span>
+2. <span style="color: red">Red Team - Has the Medic</span>
+3. <span style="color: blue">Blue Team</span>
+4. <span style="color: green">Green Team</span>

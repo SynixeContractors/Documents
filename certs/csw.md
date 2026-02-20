@@ -10,12 +10,6 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
 
 ## Usage
 
-### CSW Types
-
-- Static Mini-Spike
-  - Often referred to as “Static AA”
-  - The Mini-Spike should be used when the airspace is occupied with enemies
-  - Lock on targeting system used against air assets
 - Static M2
   - Also known as a “Static .50”
   - The M2 should be used when we are either in a fortified location as a defense asset or if we are posed against a bigger threat and we are in need of more firepower
@@ -26,14 +20,14 @@ Completing the CSW certification will allow the contractor to utilize CSW on fut
 When assembling the CSWs, it is pretty straightforward.
 
 1. Tripod is placed
-2. Gun or Missile is attached
+2. Gun is attached
 3. Ammo is loaded, and gunner hops on
 4. Ready to fire
 
 Disassembly is just as easy, just assembly, but backwards.
 
 1. Unload ammo
-2. Detach Gun or Missile
+2. Detach Gun
 3. Pickup tripod
 
 ## Certification

@@ -8,7 +8,8 @@ Luban Army's equipment is split between older equipment from post independence w
 
 ## Information
 
-Primary Language: Arabic
+Primary Language: Arabic  
+Adjectival: Luban  
 
 ## Military Equipment
 

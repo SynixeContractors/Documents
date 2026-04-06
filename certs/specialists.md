@@ -26,6 +26,10 @@
 <!-- 5. [Construction](certs/engineer/construction.md) -->
 <!-- 5. Construction -->
 
+## Electronic Systems
+
+1. [UAV Operator](certs/uav/uav.md)
+
 ## Marksman
 
 1. [Marksman](certs/marksman/marksman.md)

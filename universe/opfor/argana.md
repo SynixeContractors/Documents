@@ -4,7 +4,7 @@
 
 ## Overview
 
-Argana is a post-colonial state, in its history known for state-organized piracy of the nearby seaborne trade routes. Within its current boarders lay 3 tribes united against the colonializers: Tura, Serfrawi and Imazighen. 
+Argana is a post-colonial state, in its history known for state-organized piracy of the nearby seaborne trade routes. Within its current boarders lay 3 tribes that united against the colonializers: Tura, Serfrawi and Imazighen. 
 
 ## Information
 
@@ -18,7 +18,7 @@ Platform: 6.5 Katiba/7.62mm AK
 
 ## Civil war
 
-50 years to the day after independence Tura rebellion named "Red Tiger Coup" launched the country into civil war. After years of internal strife with weak peace achieve, the miltia that fought alongside the government during the first civil war have refused orders. Sefrawi People's Liberation Army proclaimed from the state militia have once again thrown the country into the civil war. Dormant for years Tura have sprung another uprising into 3-way civil war.
+50 years to the day after independence Tura rebellion named "Red Tiger Coup" launched the country into civil war. After years of internal strife with weak peace achieved, the miltia that fought alongside the government during the first civil war have refused orders. Sefrawi People's Liberation Army proclaimed from the state militia have once again thrown the country into the civil war. Dormant for years Tura have sprung another uprising turning the conflict into 3-way civil war.
 
 The Arganan National Army caught unprepared during a modernization program, have ceded much of the territory economically important territory to the other factions.
 

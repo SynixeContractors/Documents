@@ -18,9 +18,9 @@ A good leader:
 
 - Is approachable and friendly
 - Is confident and assertive in their decisions
-- Knowledgable of the operation and the teams
-- Dependable and reliable to their superiors and subordinates
-- Able to work independently and as part of a greater team
+- Is knowledgeable of the operation and the teams
+- Is dependable and reliable to their superiors and subordinates
+- Is able to work independently and as part of a greater team
 - Puts the safety, success, and enjoyment of their team above their own
 
 ## Expectations

@@ -66,9 +66,17 @@ The MAAWS Mk4 Mod 1 has three different types of projectiles:
 
 **HE 44**: High Explosive 44, use against lightly armored vehicles and bunkers.
 
+**HEDP 502**: High Explosive Dual Purpose 502, use against medium armored vehicles and infantry.
+
 **HEAT 55**: High Explosive Anti-Tank 55, use against medium armored vehicles.
 
+**HEAT 655 CS**: High Explosive Anti-Tank 655, Like HEAT55 but can be fired from confined spaces.
+
 **HEAT 75**: High Explosive Anti-Tank 75, use against medium to heavily armored vehicles.
+
+**SMOKE 469**: Smoke 469, use to provide long-range, long-lived smoke cover.
+
+**ILUM 502**: Illumination 502, use to provide wide area battlefield illuminations.
 
 ### Buddy loading
 

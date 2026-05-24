@@ -4,86 +4,80 @@
 
 A HAT rifleman is a specialized operator class, and is not considered a standard operator.
 
-The primary role of the HAT rifleman is to eliminate large and heavily armored vehicle threats, such as Main Battle Tanks, APCs, or other heavy vehicles with reactive armor.
+The primary role of the HAT rifleman is to eliminate large and heavily armored vehicle threats, such as Main Battle Tanks, APCs, or other heavy vehicles with reactive armor with direct and indirect fire.
 
 ### Specialized Equipment
 
-Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapons are Metis-M and Titan MPRL Compact.
+Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapon is a MAAWS Mk4 Mod1.
 
 ## Usage
 
-### Metis-M
+### MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System) Mk4 Mod 1
 
-The Metis-M fires wire-guided missiles capable of hitting targets up to 2,000 meters away. It is the cheaper HAT weapon. Being a SACLOS (Semi-automatic Command Line of Sight) weapon, the operator must continually keep the sight on the target until impact.
+The MAAWS provides a high rate of fire and the ability to fire unguided projectiles to 1,000 meters. It is the primary MAT weapon.
 
-The Metis-M has two different rocket types:
+!> The MAAWS has significant backblast. Do not fire the weapon while against a wall or other structure that will redirect the overpressured air back towards you. Exercise caution when firing the weapon.
 
-**9M135 HE**: High Explosive, use against light to medium armored vehicles.
+The MAAWS Mk4 Mod 1 has variety of different types of projectiles:
 
-**9M135 HEAT**: High Explosive Anti-Tank, use against medium to heavily armored vehicles.
+**HE 44**: High Explosive 44, use against infantry, unarmored vehicles and static targets.
 
+**HEDP 502**: High Explosive Dual Purpose 502, use against medium armored vehicles and infantry.
 
-### Titan MPRL Compact
+**HEAT 55**: High Explosive Anti-Tank 55, use against medium armored vehicles.
 
-The Titan MRPL Compact (also referred to as just a "Titan") is our solution to reliably countering hostile heavy armor, such as Main Battle Tanks, and other vehicles that have been equipped with reactive armor.
+**HEAT 655 CS**: High Explosive Anti-Tank 655, low pressure HEAT round with countermass for reduced backblast. Can be fired from within buildings.
 
-The Titan is capable of engaging a target out to a distance of 2000 meters.
+**HEAT 75**: High Explosive Anti-Tank 75, use against medium to heavily armored vehicles.
 
-#### Infrared Guidance
+**GMM**: Guided Multipurpose Munition, semi-active laser guided missile with heavy anti-tank or high explosive warhead. Effective up to 2.5km.
 
-The Titan is equipped with an infrared sight that is used to lock the rocket onto the target, and once the rocket is fired it will guide itself utilizing its own infrared seeker. Because of this, the Titan requires no further input from the operator once the rocket is fired.
+**SMOKE 469**: Smoke 469, use to provide long-range, long-lived smoke cover.
 
-There are certain tradeoffs to using an IR seeker. To lock and track the threat, the engine of the threat must be running, and certain types of countermeasures will disrupt the tracking of the target. The two primary countermeasures that a HAT rifleman will have to be mindful of are flares (which burn extremely hot, and may disrupt tracking of the rocket), and smoke (which may block the IR seeker from detecting the target).
-
-#### Firing Modes
-
-The Titan is capable of firing in two separate modes. There is the direct attack mode, which will fire the missile in a relatively linear flight trajectory, and the top down attack, where the missile will climb upwards, and then come down towards the target vehicle from a height of 180 meters. It is the responsibility of the weapon operator to utilize the correct flight mode to ensure a hit on target.
-
-If the target vehicle is heavily armored around the front, back, and sides, a Top Attack should be utilized to ensure destruction of the vehicle. If the target vehicle is under some sort of overhead cover, then consider a direct attack to ensure a hit.
-
-#### Lock-On and Firing Sequence - In Detail
-
-To begin the lock on process of the Titan, first look through the weapon sight and locate the target.
-Once the target has been located, quickly determine whether a Top attack or a Direct attack will be the better choice for eliminating the target. Ensure you are on the correct attack profile (the default key to swap from direct to top attack and vice-versa is <kbd>F</kbd>).
-Once the weapon is on the correct attack profile, switch to the thermal sight, and begin the lock-on sequence of the weapon (the default key for this is <kbd>Tab</kbd>). You will see a box around the vehicle the Titan is locking appear. Please ensure this is the vehicle you want destroyed. Note that you will have to hold the lock button down until the rocket is fired.
-Once the lock-on sequence is completed (you see a crosshair over the target, the seek light is illuminated, and the tone has changed from high beeps to low beeps), fire the weapon when ready.
-Once the rocket has been launched, it is strongly encouraged that you and anyone in your vicinity immediately relocate. The threats that require HAT to deal with can quickly locate the source of the rocket, and will likely engage the position with everything they have.
-
-#### Lock-On and Firing Sequence - In Brief
-
-1. Locate the target and quickly assess the best firing mode.
-1. Switch to thermals (<kbd>N</kbd>).
-1. Hold <kbd>Tab</kbd> to lock the target.
-1. Fire once lock-on is complete and you are ready to engage the target.
-1. Move. They know where you are now.
+**ILUM 502**: Illumination 502, use to provide wide area battlefield illuminations.
 
 ## Certification
 
 ### Theoretical Exam
 
-- What is the maximum engagement range for the Metis-M?
-- What is the maximum engagement range for the Titan MPRL Compact?
-- What are the two fire modes of the Titan MPRL Compact, and when should they be used?
-- What are the three indicators that the Titan MPRL Compact has a solid lock on the target?
+- Explain the difference between different rounds available.
+- What is the maximum engagement range for the direct fire rounds?
+- What is the maximum engagement range for the GMM missile?
 - Explain the target selection process for a HAT operator.
 
 ### Practical Exam
 
 #### Equipment
 
-- Metis-M
-- Titan MRPL Compact
+- MAAWS Mk4 Mod1
+- Laser Designator
 
-### Round 1
-Metis-M
+#### Round 1
 
+MAAWS Mk4 Mod 1
+
+- Truck     - 400m
+- Technical - 860m
 - Tank      - 960m
-- Technical - 1,320m
-- Technical - 1,800m
 
 #### Round 2
-Titan MPRL Compact
 
-- Locate the tank on the plains, and hit it using a direct attack rocket.
-- Locate the tank on the plains, and hit it using a top attack rocket.
+MAAWS Mk4 Mod 1 using HEAT 655CS
 
+- Truck     - 200m
+- Truck     - 400m
+
+#### Round 3
+
+MAAWS Mk4 Mod 1 using GMM
+
+- Truck - 400m
+- Tank  - 960m
+- Truck - 1800m
+
+#### Round 4
+
+Laser Designator for GMM
+
+- Tank  - 960m
+- Truck - 1800m

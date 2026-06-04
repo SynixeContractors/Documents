@@ -185,16 +185,6 @@ Notice this:
 - **Invites questions** (in case someone is confused)
 - **Moves forward** (doesn't dwell on the change)
 
-## Building Adaptability into Your Team
-
-You can't prevent all problems, but you can prepare your team:
-
-- **Train in different scenarios.** Combat rarely goes to plan.
-- **Practice improvisation.** What if your planned route is blocked? What if you lose a person?
-- **Rehearse drills.** Casualty procedures, ambush response, position changes.
-- **Build confidence.** Teams that have overcome obstacles before are less panicked by new ones.
-- **Emphasize mission over plan.** The plan might change, but the mission doesn't. Focus on accomplishing the goal.
-
 ## Common Adaptation Mistakes
 
 - **Freezing up.** Situation changes and you don't respond. Green and Blue are confused.

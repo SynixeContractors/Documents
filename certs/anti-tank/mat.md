@@ -86,7 +86,6 @@ The trainee should be able to explain the difference between rocket variations (
 
 - RPG-32
 - PSRL-1 PWS
-- MAAWS Mk4 Mod 1
 
 #### Round 1
 

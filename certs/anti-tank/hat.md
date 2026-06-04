@@ -62,22 +62,15 @@ MAAWS Mk4 Mod 1
 
 #### Round 2
 
-MAAWS Mk4 Mod 1 using HEAT 655CS
-
-- Truck     - 200m
-- Truck     - 400m
-
-#### Round 3
-
 MAAWS Mk4 Mod 1 using GMM
 
 - Truck - 400m
 - Tank  - 960m
 - Truck - 1800m
 
-#### Round 4
+#### Round 3
 
-Laser Designator for GMM
+Designate target for GMM
 
 - Tank  - 960m
-- Truck - 1800m
+

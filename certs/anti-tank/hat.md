@@ -4,7 +4,7 @@
 
 A HAT rifleman is a specialized operator class, and is not considered a standard operator.
 
-The primary role of the HAT rifleman is to eliminate large and heavily armored vehicle threats, such as Main Battle Tanks, APCs, or other heavy vehicles with reactive armor with direct and indirect fire.
+The primary role of the HAT rifleman is to eliminate large and heavily armored vehicle threats, such as Main Battle Tanks, APCs, or other heavy vehicles including those protected with reactive armor, using direct and indirect fire.
 
 ### Specialized Equipment
 
@@ -14,7 +14,7 @@ Completing the certification for HAT Rifleman will unlock the ability to operate
 
 ### MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System) Mk4 Mod 1
 
-The MAAWS provides a high rate of fire and the ability to fire unguided projectiles to 1,000 meters. It is the primary MAT weapon.
+The MAAWS provides a high rate of fire and the ability to fire unguided projectiles to 1,000 meters and launch guided missiles. It is the primary HAT weapon.
 
 !> The MAAWS has significant backblast. Do not fire the weapon while against a wall or other structure that will redirect the overpressured air back towards you. Exercise caution when firing the weapon.
 

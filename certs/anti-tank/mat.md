@@ -6,7 +6,7 @@ An MAT rifleman is a specialized operator class, and is not considered a standar
 
 The primary role of the MAT rifleman is to eliminate medium and large vehicle threats and provide direct fire anti-personnel and anti-structure fires.
 
-Even though the both MAT launchers have a Tandem Anti-Tank round, they SHOULD NOT be relied upon to deal with heavily armored threats, instead, a HAT operator should be called in to neutralize the threat, depending on severity and availability of operators.
+Even though the both MAT launchers have a Tandem Anti-Tank round, they SHOULD NOT be relied on to engage heavily armored targets, and a guided missile or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
 
 ### Specialized Equipment
 

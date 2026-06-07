@@ -6,6 +6,8 @@ An MAT rifleman is a specialized operator class, and is not considered a standar
 
 The primary role of the MAT rifleman is to eliminate medium and large vehicle threats and provide direct fire anti-personnel and anti-structure fires.
 
+Even though the both MAT launchers have a Tandem Anti-Tank round, they SHOULD NOT be relied upon to deal with heavily armored threats, instead, a HAT operator should be called in to neutralize the threat, depending on severity and availability of operators.
+
 ### Specialized Equipment
 
 Completing the certification for MAT Rifleman will unlock the ability to operate MAT weapons. The standard MAT weapons are the RPG-32, PSRL-1.
@@ -16,9 +18,7 @@ Completing the certification for MAT Rifleman will unlock the ability to operate
 
 #### Rocket Selection
 
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a Multi-Purpose Anti Tank round equipped with a tandem shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against light to medium armored threats such as MRAPs and APCs and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
-
-RPG-32 MPAT should not be relied on to engage very heavily armored targets, and a guided missile or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
+The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a Multi-Purpose Anti-Tank round equipped with a tandem shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against light to medium armored threats such as MRAPs and APCs and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 #### RPG-32 Ranging Optic
 
@@ -37,21 +37,15 @@ When ranging technicals, the size of the vehicle is smaller than the threat the 
 ![Technical Ranging](../images/lat_technical.png)
 
 
-### Ranging
-
-All three launchers have the ability to range targets. This is done by pressing the <kbd>T</kbd> while aiming down the sights.
-
 ### PSRL-1
 
 #### Rocket Selection
 
 The PSRL-1 also has several rocket variations available for use by MAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat. All rockets have a safety fuse of 900m.
 
-Even though the PSRL-1 has a Tandem Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
-
 #### PSRL-1 PWS Fire Control Optic
 
-The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "Lase Range" button (default "T"). The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
+The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "Lase Range" button (default <kbd>T</kbd>). The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
 
 Alternative to the fire control optic is to use short range sight mounted on the base version of PSRL-1 (like unmaginfied red dot or holographic sight). Such sights are not adjustable for drop and zero and must be practiced and learned by a skilled operator. Such usage while not recommended allows an operator to have better situational awareness.
 

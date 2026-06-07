@@ -8,7 +8,7 @@ The primary role of the HAT rifleman is to eliminate large and heavily armored v
 
 ### Specialized Equipment
 
-Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapon is a MAAWS Mk4 Mod1.
+Completing the certification for HAT Rifleman will unlock the ability to operate HAT weapons. The standard HAT weapon is a MAAWS Mk4 Mod 1.
 
 ## Usage
 
@@ -18,7 +18,7 @@ The MAAWS provides a high rate of fire and the ability to fire unguided projecti
 
 !> The MAAWS has significant backblast. Do not fire the weapon while against a wall or other structure that will redirect the overpressured air back towards you. Exercise caution when firing the weapon.
 
-The MAAWS Mk4 Mod 1 has variety of different types of projectiles:
+The MAAWS Mk4 Mod 1 has a variety of different types of projectiles:
 
 **HE 44**: High Explosive 44, use against infantry, unarmored vehicles and static targets.
 
@@ -49,7 +49,7 @@ The MAAWS Mk4 Mod 1 has variety of different types of projectiles:
 
 #### Equipment
 
-- MAAWS Mk4 Mod1
+- MAAWS Mk4 Mod 1
 - Laser Designator
 
 #### Round 1

@@ -32,7 +32,7 @@ Vehicles may vary in size, so the ranging hashes may be slightly off, but this m
 
 !> Military vehicles are often close to half as wide as they are long (especially tracked ones), so half of the scale can be use for ranging vehicles front on.
 
-When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to ask someone for a range to target before engaging.
+When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to manually estimate range by using common features on a map, dead reckoning or using a laser rangefinder.
 
 ![Technical Ranging](../images/lat_technical.png)
 

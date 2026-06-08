@@ -6,9 +6,11 @@ An MAT rifleman is a specialized operator class, and is not considered a standar
 
 The primary role of the MAT rifleman is to eliminate medium and large vehicle threats and provide direct fire anti-personnel and anti-structure fires.
 
+Even though the both MAT launchers have a Tandem Anti-Tank round, they SHOULD NOT be relied on to engage heavily armored targets, and a guided missile or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
+
 ### Specialized Equipment
 
-Completing the certification for MAT Rifleman will unlock the ability to operate MAT weapons. The standard MAT weapons are the RPG-32, PSRL-1 and MAAWS Mk4 Mod 1.
+Completing the certification for MAT Rifleman will unlock the ability to operate MAT weapons. The standard MAT weapons are the RPG-32, PSRL-1.
 
 ## Usage
 
@@ -16,9 +18,7 @@ Completing the certification for MAT Rifleman will unlock the ability to operate
 
 #### Rocket Selection
 
-The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a Multi-Purpose Anti Tank round equipped with a shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against lightly armored threats, such as up-armored civilian vehicles, and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
-
-Even though the RPG-32 has an Anti-Tank round, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, a heavier weapon or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
+The RPG-32 has two selections for rockets. The first selection is a High Explosive round. This round is ideal for soft targets, and unarmored vehicles, such as technicals. The second round is a Multi-Purpose Anti-Tank round equipped with a tandem shaped-charge penetrator and fragmentation sleeve. This round can be used in reduced capacity against infantry and is useful against light to medium armored threats such as MRAPs and APCs and can pose a threat against more heavily armored vehicles if hit in a lightly armored spot, or with enough rounds.
 
 #### RPG-32 Ranging Optic
 
@@ -32,14 +32,10 @@ Vehicles may vary in size, so the ranging hashes may be slightly off, but this m
 
 !> Military vehicles are often close to half as wide as they are long (especially tracked ones), so half of the scale can be use for ranging vehicles front on.
 
-When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to ask someone for a range to target before engaging.
+When ranging technicals, the size of the vehicle is smaller than the threat the ranging hashes are designed for. As you can see below, the technical will fit within the 200 meter hashes, but the technical is only 150 meters away. If time permits while engaging these targets, best practice is to manually estimate range by using common features on a map, dead reckoning or using a laser rangefinder.
 
 ![Technical Ranging](../images/lat_technical.png)
 
-
-### Ranging
-
-All three launchers have the ability to range targets. This is done by pressing the <kbd>T</kbd> while aiming down the sights.
 
 ### PSRL-1
 
@@ -47,36 +43,13 @@ All three launchers have the ability to range targets. This is done by pressing 
 
 The PSRL-1 also has several rocket variations available for use by MAT operators. Care should be taken while selecting rockets that the correct rocket is being utilized to neutralize the threat. All rockets have a safety fuse of 900m.
 
-Even though the PSRL-1 has several Anti-Tank rocket options, it SHOULD NOT be relied upon to deal with heavily armored threats, instead, heavier HEAT warheads of MAAWS or a HAT operator should be called in to neutralize the threat, depending on severity and availabilty of operators.
-
 #### PSRL-1 PWS Fire Control Optic
 
-The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "Lase Range" button (default "T"). The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
+The PSRL-1 PWS is the preferred variant of the PSRL-1 due to the ranging optic on the weapon. The PWS variant optic is equipped with a laser rangefinder integrated into the optic. To utilize the laser rangefinder, place the target under the center mark, and press the "Lase Range" button (default <kbd>T</kbd>). The range will be displayed to the right of the ranging mark. Once a range is determined, the operator will align the target with the proper ranging hash, and can then begin the firing process.
 
 Alternative to the fire control optic is to use short range sight mounted on the base version of PSRL-1 (like unmaginfied red dot or holographic sight). Such sights are not adjustable for drop and zero and must be practiced and learned by a skilled operator. Such usage while not recommended allows an operator to have better situational awareness.
 
 
-### MAAWS (Multi-Role Anti-Armor Anti-Personnel Weapon System) Mk4 Mod 1
-
-The MAAWS provides a high rate of fire and the ability to fire up to 1,000 meters. It is the primary MAT weapon.
-
-!> The MAAWS has significant backblast. Do not fire the weapon while against a wall or other structure that will redirect the overpressured air back towards you. Exercise caution when firing the weapon.
-
-The MAAWS Mk4 Mod 1 has three different types of projectiles:
-
-**HE 44**: High Explosive 44, use against lightly armored vehicles and bunkers.
-
-**HEDP 502**: High Explosive Dual Purpose 502, use against medium armored vehicles and infantry.
-
-**HEAT 55**: High Explosive Anti-Tank 55, use against medium armored vehicles.
-
-**HEAT 655 CS**: High Explosive Anti-Tank 655, Like HEAT55 but can be fired from confined spaces.
-
-**HEAT 75**: High Explosive Anti-Tank 75, use against medium to heavily armored vehicles.
-
-**SMOKE 469**: Smoke 469, use to provide long-range, long-lived smoke cover.
-
-**ILUM 502**: Illumination 502, use to provide wide area battlefield illuminations.
 
 ### Buddy loading
 
@@ -107,7 +80,6 @@ The trainee should be able to explain the difference between rocket variations (
 
 - RPG-32
 - PSRL-1 PWS
-- MAAWS Mk4 Mod 1
 
 #### Round 1
 
@@ -127,13 +99,4 @@ PSRL-1 PWS
 - Car   - 250m
 - Car   - 350m
 - Truck - 400m
-
-#### Round 3
-
-MAAWS Mk4 Mod 1
-
-- Truck     - 400m
-- Technical - 860m
-- Tank      - 960m
-
 

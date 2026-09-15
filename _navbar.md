@@ -29,5 +29,6 @@
   * [Blufor](universe/blufor/index.md)
   * [Opfor](universe/opfor/index.md)
   * [Indep](universe/indep/index.md)
+  * [Groups](universe/groups/index.md)
 
 * [Specialists](certs/specialists.md)

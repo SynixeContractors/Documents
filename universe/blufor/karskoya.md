@@ -12,6 +12,6 @@ Adjectival: Karskoyan
 ## Military Equipment
 
 Camoflage Pattern: M81  
-Platform: 5.56 M4  
+Platform: 5.56 (M4)  
 
 ## Allies

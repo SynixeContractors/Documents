@@ -12,6 +12,6 @@ Adjectival: Tyeni
 ## Military Equipment
 
 Camoflage Pattern: Hex Arid  
-Platform: 6.5 QBZ-95  
+Platform: 5.8 (QBZ-95)  
 
 ## Allies

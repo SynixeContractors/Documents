@@ -12,6 +12,6 @@ Adjectival: Brenian
 ## Military Equipment
 
 Camoflage Pattern: Woodland  
-Platform: 6.5 Katiba  
+Platform: 6.5 (Katiba)  
 
 ## Allies

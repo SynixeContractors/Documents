@@ -8,4 +8,6 @@
 
 ## MSA
 
+- [Breznia](universe/indep/Breznia.md)
 - [Chernarus](universe/indep/chernarus.md)
+- [Nyrland](universe/indep/Nyrland.md)

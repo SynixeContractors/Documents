@@ -14,7 +14,7 @@ Primary Language: Russian
 
 ## Military Equipment
 
-Camoflage Pattern: MTP (Multi-Terrain Pattern)
+Camoflage Pattern: MTP (Multi-Terrain Pattern)  
 Platform: 5.45 AK (AK-12 / AK-74)  
 
 ## Allies

@@ -14,8 +14,8 @@ Primary Language: English
 
 ## Military Equipment
 
-Camoflage Pattern: MTP-W (Multi-Terrain Pattern - Woodland)
-Platform: 5.56 AUG (AUG A3)  
+Camoflage Pattern: MTP-W (Multi-Terrain Pattern - Woodland)  
+Platform: 5.56 Steyr (AUG A3)  
 
 ## Allies
 

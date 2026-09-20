@@ -24,7 +24,7 @@ Backblast also precludes you from firing the weapon indoors. There needs to be s
 
 ### Callouts
 
-When you begin to prepare the weapon you must make a callout of "Clear Backblast - [Direction]". The direction should be the direction the rocket will be moving toward. Hold until you hear "Clear Clear Clear" or "Backblast Clear". Once ready call "Rocket out" or "Rocket Rocket Rocket" then discharge the weapon. If you will not be discharging the weapon yell "Cancel Cancel Cancel".
+When you begin to prepare the weapon you must make a callout of "Clear Backblast - [Direction]". The direction should be the direction the rocket will be moving toward. Hold until you hear "Clear Clear Clear". Once ready call "Rocket out" or "Rocket Rocket Rocket" then discharge the weapon. If you will not be discharging the weapon yell "Cancel Cancel Cancel".
 
 These callouts will greatly reduce the chance of injury to either yourself, or your team members.
 

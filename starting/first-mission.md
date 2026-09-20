@@ -6,11 +6,11 @@ Before you jump into a game, you'll first need to set your Arma name to set your
 
 ## Shop
 
-When you first load into our Contract Server you'll need to get your equipment from the Shop. You do this by using the ACE interact menu on the cardboard boxes with nets over them. Once inside the Shop, you'll notice the bottom left button is gray and shows "Balance 3500"
+When you first load into our Contract Server you'll need to get your equipment from the Shop. You do this by using the ACE interact menu on the cardboard boxes with nets over them. Once inside the Shop, you'll notice the bottom left button is gray and shows "Balance 3250"
 
 ![Arsenal1](images/ars1.jpg)
 
-This button is used to show you your current cash balance. You start with 3500 and will earn more for successfully completing operations. As you go through and select gear, you'll notice the balance changes to not gray and now shows 0/3500. This is representative of the amount of money you are going to spend to buy gear.
+This button is used to show your current cash balance. You start with 3250 and will earn more for successfully completing operations. As you go through and select gear, you'll notice the balance changes to not gray and now shows 0/3250. This is representative of the amount of money you are going to spend to buy gear.
 
 You'll also notice a list labeled Missing Required Gear on the top right, this list contains every item a contractor is required to carry with them during operations and must always be blank when exiting the shop.
 

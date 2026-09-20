@@ -24,6 +24,7 @@ Leadership is not allowed to take:
 - EOD
 - Medic
 - MAT
+- UAV
 
 ## Tools
 
@@ -48,11 +49,5 @@ Map tools are a great tool for leadership to have, they allow you to quickly and
 *Note: Requires Personal Electronics Certification*
 
 The Vector 21 is a range finder that can be used to quickly and accurately determine the distance to a target, or the distances between two points, among many other features. It is highly recommended for leadership to carry a Vector 21.
-
-### MicroDAGR
-
-*Note: Requires Personal Electronics Certification*
-
-A GPS devices that provides accurate location and navigation information. In some situations, it can be a benefit over our standard GPS.
 
 [Continue to Radios](certs/leadership/radios.md)

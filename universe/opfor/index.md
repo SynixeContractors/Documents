@@ -1,5 +1,6 @@
 # Opfor
 
+- [Argana](universe/opfor/argana.md)
 - [Illanz](universe/opfor/illanz.md)
 - [Joson](universe/opfor/joson.md)
 

@@ -2,6 +2,7 @@
 
 - [Illanz](universe/opfor/illanz.md)
 - [Joson](universe/opfor/joson.md)
+- [Marar](universe/opfor/marar.md)
 
 ## CSP
 

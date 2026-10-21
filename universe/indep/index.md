@@ -1,6 +1,7 @@
 # Indep
 
 - [Altis](universe/indep/altis.md)
+- [Krasnovia](universe/indep/krasnovia.md)
 - [Luba](universe/indep/luba.md)
 - [N'Gabiri](universe/indep/ngabiri.md)
 - [Treidan](universe/indep/treidan.md)
